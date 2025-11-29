@@ -1,0 +1,9 @@
+from app.db.base_class import Base # for base_class
+
+from app.models.user import User
+from app.models.admin_user import AdminUser
+from app.models.persona import Persona
+from app.models.product import Product
+from app.models.product_review import ProductReview
+from app.models.cart_item import CartItem
+from app.models.persona_generated_content import PersonaGeneratedContent

@@ -1,0 +1,42 @@
+version: "3.8"
+services:
+  postgres:
+    image: ankane/pgvector
+    hostname: postgreshost
+    environment:
+      POSTGRES_USER: usernamevalue
+      POSTGRES_PASSWORD: passwordvalue
+      POSTGRES_DB: anything
+      DEV_MODE: True
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./postgresql.conf:/etc/postgresql/postgresql.conf
+    command: postgres -c config_file=/etc/postgresql/postgresql.conf
+    restart: unless-stopped
+    networks:
+      - starter-kit
+
+  backend:
+    build: backend/.
+    image: starter-kit/backend:latest
+    container_name: starter-kit-backend
+    # env_file: backend/env_var
+    env_file: .env
+    environment:
+      - default=default
+    volumes:
+      - ./backend:/app
+      - ./logs:/app/logs
+    ports:
+      - 5051:5051
+    depends_on:
+      - "postgres"
+    networks:
+      - starter-kit
+    restart: "on-failure"
+
+networks:
+  starter-kit:
+    name: starter-kit
+    driver: bridge

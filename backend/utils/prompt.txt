@@ -1,0 +1,2480 @@
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 1 of 61 
+ PRODUCT MONOGRAP H 
+INCLUDING PATIENT MEDICATION INFORMATION  
+ 
+ 
+PrMOUNJARO® 
+tirzepatide injection  
+ 
+Solution , 2.5 mg/0.5 mL, 5 mg/0.5  mL, 7.5 mg/0.5  mL, 10 mg/0.5  mL, 12.5 mg/0.5  mL, and 15 mg/0.5  mL, in a 
+single -dose  prefilled pen for subcutaneous use  
+Solution, 2.5  mg/0.5  mL, 5  mg/0.5  mL, 7.5  mg/0.5  mL, 10  mg/0.5  mL, 12.5  mg/0.5  mL, and 15 mg/0.5  mL, in a 
+single -dose vial for subcutaneous use  
+ 
+ 
+PrMOUNJARO® KwikPen® 
+tirzepatide injection  
+ 
+Solution, 2.5  mg/0.6  mL, 5  mg/0.6  mL, 7.5  mg/0.6  mL, 10  mg/0.6  mL, 12 .5 mg/0.6  mL, and 15 mg/0.6  mL, in a 
+multi -dose prefilled pen for subcutaneous use  
+ 
+ 
+Glucose -Dependent Insulinotropic Polypeptide (GIP) and Glucagon -Like Peptide -1 (GLP -1) Receptor  Agonist  
+ 
+Antihyperglycemic Agent  
+ 
+ 
+Eli Lilly Canada Inc.  
+Exchange Tower  
+130 King Street West, Suite 900  
+P.O. Box 73  
+Toronto, Ontario  
+M5X 1B1  
+1-888-545-5972  
+www.lilly.ca  Date of Initial Authorization:  
+NOV 23, 2022  
+Date  of Revision:  
+SEP 24, 2024  
+ 
+ 
+Submission Control N umber : 283968  
+MOUNJARO® and MOUNJARO® KwikPen® are registered trademark s owned by or licensed to Eli Lilly and 
+Company, its subsidiaries or affiliates.  
+  
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 2 of 61 
+ RECENT MAJOR LABEL CHANGES   
+2 Contraindications  09/2024  
+4 Dosage and Administration, 4.4 Administration  09/2024  
+7 Warnings and Precautions  09/2024  
+ 
+TABLE  OF CONTENTS   
+Sections or subsections that are not applicable at the time of authorization are not listed.   
+ 
+RECENT MAJOR LABEL CHANGES  ................................ ................................ .......................  2 
+TABLE OF CONTENTS  ................................ ................................ ................................ .............  2 
+PART I: HEALTH PROFESSIONAL INFORMATION  ................................ ................................  4 
+1 INDICATIONS ................................ ................................ ................................ .................  4 
+1.1 Pediatrics  ................................ ................................ ................................ ..............  4 
+1.2 Geriatrics  ................................ ................................ ................................ ...............  4 
+2 CONTRAINDICATIONS  ................................ ................................ ................................ . 4 
+3 SERIOUS WARNINGS AND PRECAUTIONS BOX  ................................ .......................  5 
+4 DOSAGE AND ADMINISTRATION  ................................ ................................ ................  5 
+4.1 Dosing Considerations  ................................ ................................ ..........................  5 
+4.2 Recommended Dose and Dosage Adjustment  ................................ ......................  5 
+4.4 Administration  ................................ ................................ ................................ ....... 5 
+4.5 Missed Dose  ................................ ................................ ................................ .........  6 
+5 OVERDOSAGE  ................................ ................................ ................................ ..............  6 
+6 DOSAGE FORMS, STRENGTHS, COMPOSITION AND PACKAGING  .........................  6 
+7 WARNINGS AND PRECAUTIONS  ................................ ................................ .................  7 
+7.1 Special Populations  ................................ ................................ .............................  10 
+7.1.1  Pregnant Women  ................................ ................................ ............................  10 
+7.1.2  Breast -feeding  ................................ ................................ ................................  10 
+7.1.3  Pediatrics ................................ ................................ ................................ ........  10 
+7.1.4  Geriatrics  ................................ ................................ ................................ ........  10 
+7.1.5  Hepatic Impairment  ................................ ................................ ........................  11 
+7.1.6  Renal Impairment  ................................ ................................ ...........................  11 
+8 ADVERSE REACTIONS  ................................ ................................ ...............................  11 
+8.1 Adverse Reaction Overview  ................................ ................................ ................  11 
+8.2 Clinical Trial Adverse Reactions  ................................ ................................ ..........  11 
+8.3 Less Common Clinical Trial Adverse Reactions  ................................ ..................  14 
+8.4 Abnormal Laboratory Findings: Hematologic, Clinical Chemistry and Other  
+          Quantitative Data  ................................ ................................ ................................  14 
+8.5 Post-market Adverse Reactions  ................................ ................................ ..........  15 
+9 DRUG INTERACTIONS  ................................ ................................ ................................  15 
+9.2 Drug Interactions Overview  ................................ ................................ .................  15 
+9.4 Drug -Drug Interactions  ................................ ................................ ........................  15 
+9.5 Drug -Food Interactions  ................................ ................................ ........................  16 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 3 of 61 
+ 9.6 Drug -Herb Interactions  ................................ ................................ ........................  16 
+9.7 Drug -Laboratory Test Interactions  ................................ ................................ ....... 16 
+9.8 Drug -Lifestyle Interactions  ................................ ................................ ...................  16 
+10 CLINICAL PHARMACOLOGY  ................................ ................................ .....................  16 
+10.1  Mechanism of Action  ................................ ................................ ........................  16 
+10.2  Pharmacodynamics  ................................ ................................ .........................  17 
+10.3  Pharmacokinetics  ................................ ................................ ............................  18 
+11 STORAGE, STABILITY AND DISPOSAL  ................................ ................................ .... 19 
+12 SPECIAL HANDLING INSTRUCTIONS  ................................ ................................ ....... 19 
+PART  II: SCIENTIFIC INFORMATION  ................................ ................................ .....................  20 
+13 PHARMACEUTICAL INFORMATION  ................................ ................................ ..........  20 
+14 CLINICAL TRIALS  ................................ ................................ ................................ ....... 21 
+14.1  Clinical Trials by Indication  ................................ ................................ ...............  21 
+14.2  Comparative Bioavailability Studies  ................................ ................................  30 
+15 MICROBIOLOGY  ................................ ................................ ................................ .........  31 
+16 NON -CLINICAL TOXICOLOGY  ................................ ................................ ...................  31 
+PATIENT MEDICATION INFORMATION  ................................ ................................ .................  33 
+ 
+  
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 4 of 61 
+ PART  I: HEALTH PROFESSIONAL INFORMATION   
+1 INDICATIONS   
+MOUNJARO  (tirzepatide  injection ) is indicated for once -weekly administration as an adjunct to diet and 
+exercise to improve glycemic control for the treatment of adult patients with type  2 diabetes mellitus . 
+ As monotherapy  when metformin is inappropriate due to contraindication or intolerance. 
+ In combination with : 
+○ metformin, or  
+○ metformin and  a sulfonylurea (see 4.1 Dosing Considerations  and 7 WARNINGS AND 
+PRECAUTIONS ), or 
+○ metformin and a sodium -glucose cotransporter 2 inhibitor (SGLT2 i), or 
+○ basal insulin with or without metformin (see 4.1 Dosing Considerations  and 7 WARNINGS AND 
+PRECAUTIONS ). 
+Limitations of Use  
+MOUNJARO  has not been studied in combination with short -acting, medium -acting, or dual formulation 
+insulins.  
+MOUNJARO  is not a substitute for insulin . 
+MOUNJARO should not be used in patients with type  1 diabetes mellitus (formerly known as insulin -dependent 
+diabetes mellitus or IDDM) . 
+MOUNJARO  should not be used for the treatment of diabetic ketoacidosis.  
+1.1 Pediatrics   
+Pediatrics (<18 years of age):  The safety and efficacy of MOUNJARO  have not been studied in pediatric 
+patients. MOUNJARO  is not indicated for use in pediatric patients . 
+1.2 Geriatrics   
+Geriatrics (≥65 years of age):  No overall differences in safety or efficacy were observed in clinical trial 
+patients ≥65 years of age compared to younger patients  (see 4 DOSAGE AND ADMINISTRATION , 7.1.4
+ Geriatrics , and 10.3 Pharmacokinetics ). 
+2 CONTRAINDICATIONS   
+MOUNJARO is contraindicated:  
+ in patients who are hypersensitive  to this drug or to any ingredient in the formulation , including any non -
+medicinal ingredient  (including benzyl alcohol when using  MOUNJARO KwikPen ), or component of the 
+container  (see 7 WARNINGS AND PRECAUTIONS ). (For a complete listing  of the ingredients , see 6
+ DOSAGE FORMS, STRENGTHS, COMPOSITION AND PACKAGING ). 
+ in patients with a personal or family history of medullary thyroid carcinoma (MTC)  or in patients with 
+Multiple Endocrine Neoplasia syndrome type  2 (MEN  2) (see 7 WARNINGS AND PRECAUTIONS ). 
+ during pregnancy  or breast -feeding  (see 7.1.1  Pregnant Women  and 7.1.2  Breast -feeding ). 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 5 of 61 
+ 3 SERIOUS WARNINGS AND PRECAUTIONS  BOX   
+Serious Warnings  and Precautions  
+RISK OF THYROID C -CELL TUMORS  
+ Tirzepatide causes dose -dependent and treatment -duration -dependent thyroid C -cell 
+tumors (adenomas and carcinoma s) at clinically relevant exposures  in male and female  rats 
+(see 16 NON -CLINICAL TOXICOLOGY ). It is unknown whether MOUNJARO  causes 
+thyroid C -cell tumors, including medullary thyroid carcinoma (MTC) in humans . The human 
+relevance of tirzepatide -induced rodent thyroid C -cell tumors has not been determined  (see 
+7 WARNINGS AND PRECAUTIONS ). 
+ MOUNJARO  is contraindicated in patients with a personal or family history of MTC and in 
+patients with Multiple Endocrine Neoplasia syndrome type  2 (MEN  2). It is unknown 
+whether monitoring with serum calcitonin or thyroid ultrasound will mitigate human risk of 
+thyroid C -cell tumors. Patients should be counseled regarding the risk and symptoms of 
+thyroid tumors (see 2 CONTRAINDICATIONS , 7 WARNINGS AND PRECAUTIONS , 
+8 ADVERSE REACTIONS  and 16 NON -CLINICAL TOXICOLOGY ). 
+ 
+4 DOSAGE AND ADMINISTRATION   
+4.1 Dosing Considerations   
+An increased risk of hypoglycemia was seen with concomitant use of a sulfon ylurea  or basal insulin with 
+MOUNJARO  To reduce the risk of hypoglycemia , a reduction in the dose of insulin secretagogue  or insulin 
+should be considered when  MOUNJARO is added to either of these existing therapies . In a clinical trial  in 
+patients with a baseline HbA1c ≤8%,  the basal insulin dose was decreased by 20% when  treatment with  
+MOUNJARO  was initiated  (see 7 WARNINGS AND PRECAUTIONS  and 8 ADVERSE REACTIONS ). 
+4.2 Recommended Dose and Dosage Adjustment   
+ The recommended starting dose of MOUNJARO  is 2.5  mg injected subcutaneously only once weekly.  The 
+2.5 mg dosage is for treatment initiation and is not intended for glycemic control.  After 4 weeks,  increase 
+the dose to 5  mg injected subcutaneously  once weekly.  
+ If additional glycemic control is needed, increase the dosage  in 2.5  mg increments after no less than  4 
+weeks on the current dose.  
+ The maximum dose is 15  mg injected subcutaneously once weekly.  
+ Renal Insufficiency:  No dose adjustment is required in patients with renal impairment (see 10.3
+ Pharmacokinetics ). 
+ Hepatic Insufficiency:  No dose adjustment is recommended in patients with hepatic insufficiency  (see 10.3
+ Pharmacokinetics ). 
+ Geriatrics (≥65 years): No dose adjustment is required in patients over 65 years of age  (see 7.1.4
+ Geriatrics  and 10.3 Pharmacokinetics ). 
+ Pediatrics (<18 years):  The safety and effectiveness of MOUNJARO  have not been studied in patients 
+under 18 years of age . MOUNJARO is not indicated for pediatric use  (see 7.1.3  Pediatrics ). 
+4.4 Administration   
+ Prior  to initiation of MOUNJARO, train patients on proper injection technique. Advise the patient to carefully 
+read the  Instructions for Use included with the Patient Medication Information  leaflet  before administering 
+the medicinal product.   
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 6 of 61 
+  Patients  using the single -dose vial  must be i nstruct ed to use a syringe equipped with a needle appropriate 
+for subcutaneous injection (for example, a tuberculin or insulin  syringe with a 28- to 31-gauge needle  more 
+than 2.1  mm in length that is capable of measuring a 0.5 mL dose volume ). 
+ Administer MOUNJARO once weekly , any time of day, with or without meals. MOUNJARO should not be 
+administered daily.  
+ MOUNJARO is to be injected subcutaneously in the abdomen, in the thigh, or in the upper arm. Rotate 
+injection sites with each dose.  
+ Visually inspect MOUNJARO before use. It should appear clear and colo urless to slightly yellow. Do not 
+use MOUNJARO if particulate matter or discoloration is seen.  
+ When using MOUNJARO with insulin, administer as separate injections and never mix. It is acceptable to 
+inject MOUNJARO and insulin in the same body region, but the injections should not be adjacent to each 
+other . 
+ MOUNJARO should not be administered intramuscularly or intravenously.  
+ Patients using the single -dose prefilled pen or vial go through 4 different pens or vials per month.  
+ Patients using the multi -dose prefilled pen ( MOUNJARO KwikPen) go through 1  MOUNJARO  KwikPen per 
+month as one pen delivers 4 doses of the same concentration of tirzepatide.   
+4.5 Missed Dose   
+If a dose is missed, instruct patients to administer as soon as possible within 4 days (96 hours ) after the 
+missed dose. If more than 4 days have passed, skip the missed dose and administer the next dose on the 
+regularly scheduled day. In each case, patients can then resume their regular once -weekly dosing schedule.  
+Changing Weekly Dosing Schedule  
+The day of weekly administration can be changed, if necessary, as long as the time between two doses is at 
+least  3 days (72 hours).  
+5 OVERDOSAGE   
+Potential symptoms from an overdose could be gastrointestinal related (e.g., nausea).  In the event of 
+overdose, appropriate supportive care (including frequent blood  glucose monitoring) should be initiated 
+according to the patient’s clinical signs and symptoms.  A prolonged period of observation and treatment for 
+these symptoms may be necessary, taking into account the long half -life of MOUNJARO . 
+For management of a suspected drug overdose, contact your regional poison control centre.  
+6 DOSAGE FORMS, STRENGTHS, COMPOSITION AND PACKAGING   
+MOUNJARO is a clear and colourless to slightly yellow solution that is free of particles . Table  1 lists the 
+dosage forms, strengths, composition,  and packaging for each presentation.  
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 7 of 61 
+ Table  1 - Dosage Forms, Stren gths, Composition and Packaging  
+Route of 
+Administration  Dosage Form/Strength/Composition  Non-medicinal 
+Ingredients  
+Subcutaneous  Sterile solution  of tirzepatide for injection in a 
+single -dose prefilled pen and single -dose vial   
+ 
+2.5 mg/0.5  mL  
+5 mg/0.5  mL  
+7.5 mg/0.5  mL  
+10 mg/0.5  mL  
+12.5 mg/0.5  mL  
+15 mg/0.5  mL Hydrochloric acid solution, 
+sodium chloride, sodium 
+hydroxide solution, sodium 
+phosphate dibasic 
+heptahydrate, water for 
+injection  (preservative -free). 
+Subcutaneous  Sterile solution of tirzepatide  for injection in a 
+multi -dose prefilled pen ( MOUNJARO  
+KwikPen)   
+ 
+4 doses  of 2.5 mg/0.6  mL (10 mg in 2.4  mL)  
+4 doses of 5 mg/0.6  mL (20 mg in 2.4  mL)  
+4 doses of 7.5 mg/0.6  mL (30 mg in 2.4  mL)  
+4 doses of 10 mg/0.6  mL (40 mg in 2.4  mL)  
+4 doses of 12.5 mg/0.6  mL (50 mg in 2.4 mL) 
+4 doses of 15 mg/0.6  mL (60 mg in 2.4  mL) Benzyl alcohol  
+(preservative) , glycerin, 
+hydrochloric acid solution, 
+phenol  (preservative) , 
+sodium chloride, sodium 
+hydroxide solution, sodium 
+phosphate dibasic 
+heptahydrate, water for 
+injection . 
+ 
+MOUNJARO  is packaged in a cardboard outer carton and is available in packs of 4 single -dose  prefilled pens , 
+or individual single -dose vial . 
+ 
+MOUNJARO KwikPen  is packaged in a cardboard outer carton and is available as an  individual multi -dose 
+prefilled pen. 
+7 WARNINGS AND PRECAUTIONS   
+Please see 3 SERIOUS WARNINGS AND PRECAUTIONS  BOX . 
+General  
+MOUNJARO KwikPen contains 5.4  mg benzyl alcohol in each 0.6  mL dose. Patients with hepatic or renal 
+impairment should be informed of the potential risk of metabolic acidosis due to accumulation of benzyl alcohol 
+over time. Benzyl alcohol may cause allergic reaction s (see 2 CONTRAINDICATIONS ). 
+Carcinogenesis and Mutagenesis  
+Risk of Thyroid C -Cell Tumors  
+Tirzepatide  caused a dose -dependent and treatment -duration -dependent increase in the incidence of thyroid 
+C-cell tumors (adenomas and carcinomas) in both sexes of rats in a two -year study  at clinically relevant 
+plasma exposures (see  16 NON -CLINICAL TOXICOLOGY ). It is unknown whether MOUNJARO causes 
+thyroid C -cell tumors, including MTC, in humans as human relevance could not be determined. Thyroid C -cell 
+tumors in rodents are a known effect for GLP -1 receptor agonists.  
+MOUNJARO  is contraindicated in patients with a personal or family history of MTC or in patients with Multiple 
+Endocrine Neoplasia syndrome type  2 (MEN  2). Counsel patients regarding the potential risk for MTC with the 
+use of MOUNJARO  and inform them of symptoms of thyroid tumors (e.g. , a mass in the neck, dysphagia, 
+dyspnea, persistent hoarseness).  
+In registration clinical trials, there were no cases of MTC observed in patients treated with MOUNJARO . 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 8 of 61 
+ It is unknown whether monitoring with serum calcitonin or thyroid ultrasound will mitigate the potential risk of 
+MTC, and such monitoring may increase the risk of unnecessary procedures, due to low test specificity of 
+serum calcitonin and a high background  incidence of thyroid disease. However, if serum calcitonin is measured 
+and found to be elevated, the patient should be referred to an endocrinologist for further evaluation . Similarly, 
+patients with thyroid nodules noted on physical examination or neck imaging obtained for other reasons should 
+be referred to an endocrinologist for further evaluation.  
+Cardiovascular  
+Heart Rate Increase  
+MOUNJARO  causes an increase in heart rate. Caution should be observed in patients who have cardiac 
+conditions that might be worsened by an increase in heart rate (see 9.4 ). 
+Heart Failure  
+There is no therapeutic experience in patients with congestive heart failure New York Heart Association 
+(NYHA) class IV.  
+Endocrine and Metabolism  
+Hypoglycemia with Concomitant Use of Insulin Secretagogues or Insulin  
+Patients receiving MOUNJARO  in combination with an insulin secretagogue ( e.g., a sulfonylurea) or insulin 
+may have an increased risk of hypoglycemia. The risk of hypoglycemia may be lowered by a reduction in the 
+dose of the insulin secretagogue or insulin (see 8.2 Clinical Trial Adverse Reactions , 9.2 Drug Interactions 
+Overview ). 
+Other Incretin Drugs 
+The use of MOUNJARO  in combination with other  incretin  drugs (e.g., GLP-1 receptor agonists  or DPP -4 
+inhibitors ) has not been studied  and MOUNJARO should not be used in combination with those drugs . It is 
+unknown if concomitant use of drugs acting via similar pathways affects the efficacy and safety of 
+MOUNJARO . 
+Gastrointestinal  
+Use of MOUNJARO  has been  associated with gastrointestinal adverse reactions, sometimes severe (see 8.2
+ Clinical Trial Adverse Reactions ). MOUNJARO  has not been studied in patients with severe 
+gastrointestinal disease, including severe gastroparesis, and therefore should be used with caution in these 
+patients . Events related to impaired gastric emptying, including severe gastroparesis, have been reported. 
+Monitor and consider dose modification or discontinuation in patients who develop severe gastrointestinal 
+symptoms while on treatment . 
+Malnutrition  
+Malnutrition has been reported in patients receiving MOUNJARO, including severe, serious and fatal events. 
+Nutritional guidance and supplementation should be considered for patients receiving MOUNJARO. 
+Discontinuation should be considered for severe or per sistent cases of malnutrition.  
+Hepatic/Biliary  
+Acute Gallbladder Disease  
+Acute events of gallbladder disease  such as  chole lithiasis or cholecystitis have been reported in GLP-1 
+receptor agonist clinical trials  and post-marketing . 
+In MOUNJARO placebo -controlled trials, acute gallbladder disease (i .e., acute cholecystitis, biliary colic, and 
+chole cystectomy) was reporte d by 0.6% of MOUNJARO -treated patients  and 0% of placebo -treated patients.  
+If cholelithiasis is suspected, gallbladder diagnostic studies and appropriate clinical follow -up are indicated.  
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 9 of 61 
+ Immune  
+Hypersensitivity Reactions  
+Hypersensitivity reactions have been reported with MOUNJARO  in clinical trials . There  have been 
+postmarketing reports of serious hypersensitivity reactions (e.g. anaphylactic reactions and angioedema) in 
+patients treated with MOUNJARO. If hypersensitivity reactions occur, discontinue use of MOUNJARO ; treat 
+promptly per standard of care, and monitor until signs and symptoms resolve. Do not use in patients with a 
+previous hypersensitivity to tirzepatide or any of the excipients in MOUNJARO  (see 2
+ CONTRAINDICATIONS ). 
+Anaphylaxis and angioedema have been reported with GLP -1 receptor agonists. Use MOUNJARO with 
+caution in patient s with a history of angioedema or anaphylaxis with a GLP -1 receptor agonist or related 
+products because it is unknown whether such patients will be predisposed to anaphylaxis with MOUNJARO.  
+Monitoring and Laboratory Tests  
+Regular self -monitoring of blood glucose is not needed in order to adjust the dose of MOUNJARO . However, 
+when initiating treatment with MOUNJARO  in combination with a sulfonylurea or insulin, self-monitoring of 
+blood glucose may become necessary to reduce the dose of the sulfonylurea or insulin in order to reduce the 
+risk of hypoglycemia.  
+Patients should be informed that response to all diabetic therapies should be monitored by periodic 
+measurement of HbA1c levels, with a goal of decreasing these levels towards the normal range. HbA1c is 
+useful for evaluating long -term glycemic control.  
+Ophthalmologic  
+Diabetic Retinopathy Complications  
+Rapid improvement in glucose control has been associated with a temporary worsening of diabetic retinopathy. 
+MOUNJARO  has not been studied in patients with non -proliferative diabetic retinopathy requiring acute 
+therapy, proliferative diabetic retinopathy, or diabetic macular edema, and should be used with caution in these 
+patients, with appropriate monitoring.  
+Pancreatic  
+Pancreat itis 
+Acute pancreatitis has been observed in patients treated with GLP -1 receptor agonist s. In MOUNJARO  clinical  
+studies, 14 events of acute pancreatitis were confirmed by adjudication in 13  (0.2%)  MOUNJARO -treated 
+patients (0.23 patients per 100 years of exposure) versus 3 events in 3 (0.1%)  comparator -treated patients 
+(0.11 patients per 100 years of exposure ). 
+After initiation of MOUNJARO , observe patients carefully for signs and symptoms of pancreatitis.  Patients 
+should be informed of the characteristic symptoms of acute pancreatitis.  In the absence of other signs and 
+symptoms of pancreatitis, elevations in pancreatic enzymes alone are not predictive of pancreatitis.  If 
+pancreatitis is suspected, MOUNJARO  should be discontinued and appropriate management initiated; if 
+confirmed, MOUNJARO  should not be restarted. MOUNJARO  has not been evaluated in patients with a prior 
+history of pancreatitis and should be used with caution in these patients.  
+Peri-operative considerations  
+Aspiration during General Anesthesia or Deep Sedation  
+MOUNJARO  delays gastric emptying. Pulmonary aspiration has been reported in patients receiving long -acting 
+GLP-1 receptor agonists undergoing general anesthesia or deep sedation.  For the safe management of 
+patients, consider the benefits and risks , and advise patients of these, prior to such procedures . 
+Psychiatric  
+Suicidal  Ideation  and Behaviour  
+Monitor patients treated with MOUNJARO for the emergence or worsening of depression, suicidal thoughts or 
+behaviours, and/or any unusual changes in mood or behaviour.  Consider the benefits and risks to individual 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 10 of 61 
+ patients prior to initiating or continuing therapy in patients with suicidal thoughts or behaviours, or those who 
+have a history of suicidal attempts.  
+Renal  
+Acute Kidney Injury  
+MOUNJARO  has been associated with gastrointestinal adverse reactions, which include nausea, vomiting, and 
+diarrhea (see 8 ADVERSE REACTIONS ). These events may lead to dehydration, which could cause a 
+deterioration in renal function including acute renal failure.  
+In patients treated with GLP -1 receptor agonists , there have been post -marketing reports of acute kidney injury 
+and worsening of chronic renal failure, which may sometimes require hemodialysis. Some of these events 
+have been reported in patients without known underlying renal disease. A majority of the reported events 
+occurre d in patients who had experienced nausea, vomiting, diarrhea, or dehydration. Monitor renal function 
+when initiating or escalating doses of MOUNJARO  in patients reporting severe adverse  gastrointestinal 
+reactions.  
+Reproductive Health: Female and Male Potential  
+Women of childbearing potential are recommended to use contraception when treated with tirzepatide.  
+MOUNJARO is contraindicated during pregnancy (see 2 CONTRAINDICATIONS , 7.1.1  Pregnant 
+Women , and 16 NON -CLINICAL TOXICOLOGY ). 
+Advise patients using oral hormonal contraceptives to switch to a non -oral contraceptive method, or add a 
+barrier method of contraception for 4 weeks after initiation and for 4 weeks after each dose escalation with 
+MOUNJARO  (see 9.4 Drug -Drug Interactions ). 
+7.1 Special Populations   
+7.1.1  Pregnant Women   
+No clinical trials in pregnant women have been conducted. Studies in animals  (i.e., rats and rabbits)  have 
+shown reproductive and developmental toxicity , including harm to fetal development and maternal weight loss  
+(see 16 NON -CLINICAL TOXICOLOGY ). The e xtent of exposure in pregnancy during clinical trials  is 
+very limited and has been reported in individual cases only.  
+MOUNJARO  is contraindicated  during pregnancy (see 2 CONTRAINDICATIONS ). If a patient wishes to 
+become pregnant, MOUNJARO  should be discontinued  at least 1 month before a planned pregnancy due to 
+the long half-life of  MOUNJARO . 
+7.1.2  Breast -feeding   
+There are no data on the presence of tirzepatide in human milk, the effects on the breastfed infant, or the 
+effects on milk production.  MOUNJARO  is contraindicated  for the duration of breast -feeding  (see 2
+ CONTRAINDICATIONS ). 
+7.1.3  Pediatrics   
+Safety and effectiveness of MOUNJARO  have not been established in pediatric patients. MOUNJARO  is not 
+indicat ed for use in patients younger than 18 years.  
+7.1.4  Geriatrics   
+No dose adjustment is required in patients over 65 years of age (see 10.3 Pharmacokinetics ). 
+In clinical  trials,1539  (30.1%) MOUNJARO -treated patients were 65 years of age or older and 212 (4.1%) 
+MOUNJARO -treated patients were 75 years of age or older at baseline.  
+No overall differences in safety or efficacy were detected between these patients and younger patients, but 
+greater sensitivity of some older individuals cannot be ruled out.  
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 11 of 61 
+ 7.1.5  Hepatic Impairment   
+In a clinical pharmacology study in subjects with varying degrees of hepatic impairment, no change in 
+tirzepatide pharmacokinetics ( PK) was observed (see 10.3 Pharmacokinetics ). However, there is limited 
+clinical experience in patients with mild, moderate, or severe hepatic impairment; therefore, use MOUNJARO  
+with caution in these patient populations.  
+7.1.6  Renal Impairment   
+In clinical  trials, 2140 (39.5%) of MOUNJARO -treated patients had mild renal impairment (eGFR ≥60 but 
+<90 mL/min/1.73  m2), 393 (7.3%) MOUNJARO -treated patients had moderate renal impairment (eGFR ≥30 but 
+<60 mL/min/1.73  m2) and 12 (0.2%) had severe renal impairment (eGFR <30  mL/min/1.73  m2) at baseline . 
+MOUNJARO  is not recommende d in patients with end stage renal impairment due to very limited clinical 
+experience with MOUNJARO  in this population  (see 10.3 Pharmacokinetics ). 
+8 ADVERSE REACTIONS   
+8.1 Adverse Reaction Overview   
+The most frequently reported adverse reactions in clinical trials were gastrointestinal disorders, including 
+nausea, diarrhea and vomiting. In general, these reactions were mild or moderate in severity . Gastrointestinal  
+adverse reactions  (4.2%)  were the most common reasons for treatment discontinuation (see 8.2 Clinical Trial 
+Adverse Reactions ). The following serious adverse reactions are described below or elsewhere in the Product 
+Monograph:  
+ Risk of Thyroid C -cell Tumors (see 7 WARNINGS AND PRECAUTIONS ) 
+ Pancreatitis (see  7 WARNINGS AND PRECAUTIONS ) 
+ Diabetic Retinopathy Complications (see 7 WARNINGS AND PRECAUTIONS ) 
+ Use with Medications Known to Cause Hypoglycemia (see 7 WARNINGS AND PRECAUTIONS ) 
+ Renal Insufficiency (see 7WARNINGS AND PRECAUTIONS ) 
+ Suicidal  Ideation  and Behaviour  (see 7 WARNINGS AND PRECAUTIONS ) 
+ Aspiration  during General Anesthesia or Deep Sedation (see 7 WARNINGS AND PRECAUTIONS ) 
+ Malnutrition  (see 7 WARNINGS AND PRECAUTIONS ) 
+8.2 Clinical Trial Adverse Reactions   
+Clinical trials are conducted under very specific conditions . Therefore, t he adverse reaction rates observed in 
+the clinical trials  may not reflect the rates observed in practice and should not be compared to the rates in the 
+clinical trials of another drug . Adverse reaction inf ormation from clinical trials may be  useful in  identifying  and 
+approximating rates of adverse  drug reactions in real -world use.  
+All phase 3 studies assessed MOUNJARO  5 mg, 10  mg and 15  mg. 
+Pool of Placebo -Controlled Trials  
+The placebo -controlled data in Table  2 are derived from 2 trials (1 monotherapy trial and 1 trial in combination 
+with basal insulin with or without metformin) in patients with type  2 diabetes mellitus (see 14 ). These data 
+reflect exposure of 718 patients to MOUNJARO  and a mean duration of exposure to MOUNJARO  of 36.6 
+weeks.  
+Pool of Phase 3 Placebo and Active -Controlled Trials  
+The MOUNJARO  data for all phase 3 trials  in Table  2 are derived from a pool of patients with type  2 diabetes 
+mellitus participating in 7 placebo - or active -controlled Phase  3 glycemic control trials (see 14 ) evaluating 
+the use of MOUNJARO  as monotherapy and add -on therapy to oral glucose -lowering medications or insulin. In 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 12 of 61 
+ this pool, a total of 5119 patients with type  2 diabetes mellitus were treated with MOUNJARO  for a mean 
+duration of 48.1 weeks.  
+Common Adverse Reactions  
+Table  2 shows common adverse reactions, excluding hypoglycemia  (shown in Table  3), associated with the 
+use of MOUNJARO  in the pool of placebo -controlled  and pool of phase 3 placebo - and active -controlled trials. 
+These adverse reactions occurred more commonly with MOUNJARO  than with placebo, and occurred in at 
+least 1% of patients treated with MOUNJARO . 
+ 
+Table  2: Adverse Reactions in Phase  3 Trials Reported in ≥ 1% of MOUNJARO -Treated Adult Patients 
+with Type  2 Diabetes Mellitus  
+Adverse 
+Reaction  Placebo -Controlled Trials  All Phase 3 Trials  
+ MOUNJARO  
+5 mg 
+N=237 n (%)  MOUNJARO  
+10 mg 
+N=240 n (%)  MOUNJARO  
+15 mg 
+N=241 n  (%) Placebo  
+N=235  
+n (%) MOUNJARO  
+5 mg 
+N=1701 n  
+(%) MOUNJARO  
+10 mg 
+N=1702 n  
+(%) MOUNJARO  
+15 mg 
+N=1716 n  
+(%) 
+Gastrointestinal Disorders  
+Nausea  29 (12.2)  37 (15.4)  44 (18.3)  10 (4.3)  224 (13.2)  312 (18.3)  381 (22.2)  
+Diarrhea  28 (11.8)  32 (13.3)  40 (16.6)  21 (8.9)  224 (13.2)  269 (15.8)  275 (16.0)  
+Vomiting  12 (5.1)  12 (5.0)  22 (9.1)  5 (2.1)  93 (5.5)  132 (7.8)  167 (9.7)  
+Dyspepsia  19 (8.0)  18 (7.5)  13 (5.4)  6 (2.6)  101 (5.9)  125 (7.3)  115 (6.7)  
+Constipation  14 (5.9)  14 (5.8)  16 (6.6)  3 (1.3)  111 (6.5)  112 (6.6)  112 (6.5)  
+Abdominal pain  14 (5.9) 11 (4.6)  13 (5.4)  10 (4.3)  123 (7.2)  137 (8.0)  170 (9.9)  
+Abdominal 
+distension  1 (0.4)  7 (2.9)  2 (0.8)  1 (0.4)  49 (2.9)  51 (3.0)  58 (3.4)  
+Eructation  7 (3.0)  6 (2.5)  8 (3.3)  1 (0.4)  36 (2.1)  50 (2.9)  60 (3.5)  
+Flatulence  3 (1.3)  6 (2.5)  7 (2.9)  0 34 (2.0)  52 (3.1)  46 (2.7)  
+Gastroesophage
+al reflux disease  4 (1.7)  6 (2.5)  4 (1.7)  1 (0.4)  27 (1.6)  43 (2.5)  46 (2.7)  
+General Disorders and Administration Site Conditions  
+Fatigue  7 (3.0)  6 (2.5)  10 (4.1)  0 57 (3.3)  66 (3.9)  104 (6.1)  
+Injection site 
+reaction  7 (3.0)  6 (2.5)  10 (4.1)  1 (0.4)  33 (1.9)  46 (2.7)  60 (3.5)  
+Investigation  
+Weight 
+decreased  0 1 (0.4)  2 (0.8)  0 25 (1.5)  37 (2.2)  42 (2.4)  
+Heart rate 
+increased  3 (1.3)  1 (0.4)  4 (1.7)  1 (0.4)  5 (0.3)  4 (0.2) 5 (0.3)  
+Metabolism and Nutrition Disorders  
+Decreased 
+appetite  13 (5.5)  23 (9.6)  27 (11.2)  3 (1.3)  132 (7.8)  166 (9.8)  200 (11.7)  
+Gastrointestinal Adverse Reactions  
+In the pool of phase 3 placebo -controlled trials, gastrointestinal adverse reactions occurred more frequently 
+among patients receiving MOUNJARO  than patients receiving placebo : MOUNJARO  5 mg (37.1%), 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 13 of 61 
+ MOUNJARO  10 mg (39.6%), MOUNJARO  15 mg (43.6%), (placebo 20.4% ). These events were typically mild 
+or moderate in severity. More patients receiving MOUNJARO  5 mg (3 .0%), MOUNJARO  10 mg (5.4%), and 
+MOUNJARO  15 mg (6.6%) discontinued treatment due to gastrointestinal adverse reactions compared to  
+patients receiving placebo (0.4%). The majority of reports of nausea, vomiting, and/or diarrhea occurred during 
+dose escalation and decreased over time.  
+In the pool of 7 phase 3 registration studies (placebo -controlled plus active comparator), gastrointestinal events 
+occurred in 38.0% of patients on MOUNJARO  5 mg, 43.8% of patients on MOUNJARO  10 mg, and 48.8% of 
+patients on MOUNJARO  15 mg. For patients who reported gastrointestinal adverse reactions, investigators 
+graded the maximum severity of gastrointestinal adverse reactions occurring on MOUNJARO  5 mg, 10  mg, 
+and 15  mg as "mild" in 66%, 66%, and 65% of patients, “moderate” in 29%, 30%, 32%, or "severe"  in 5%, 4%, 
+and 3% of patients, respectively.  
+Other Adverse Reactions  
+Hypoglycemia  
+Table  3 summarizes the incidence of hypoglycemic events in the placebo -controlled trials . 
+ 
+Table  3: Hypoglycemia Adverse Reactions in Placebo -Controlled Trials in Patients with Type  2 
+Diabetes Mellitus  
+ MOUNJARO  
+5 mg  
+n (%) MOUNJARO  
+10 mg 
+n (%)  MOUNJARO  
+15 mg 
+n (%) Placebo  
+ 
+n (%)  
+Monotherapy  
+(40 weeks)*  N=121  N=119  N=120  N=115  
+Severe hypoglycemia**  0 0 0 0 
+Severe hypoglycemia or hypoglycemia 
+with glucose level <3  mmol/L  0 0 0 1 (0.9) 
+Symptomatic hypoglycemia with glucose 
+level ≤3.9 mmol/L  3 (2.5) 8 (6.7) 5 (4.2) 1 (0.9) 
+Add-on to Basal Insulin with or without Metformin  
+(40 weeks)*  N=116  N=119  N=120  N=120  
+Severe hypoglycemia**  0 2 (1.7) 1 (0.8) 0 
+Severe hypoglycemia or hypoglycemia 
+with glucose level <3  mmol/L  18 (15.5) 23 (19.3) 17 (14.2) 15 (12.5) 
+Symptomatic hypoglycemia with glucose 
+level ≤3.9 mmol/L  41 (35.3) 47 (39.5) 45 (37.5) 46 (38.3) 
+* Data includes events occurring during 4 weeks of treatment -free safety follow -up. Events after  the introduction of a new 
+glucose -lowering treatment are excluded.  
+** Episodes requiring the assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative 
+actions.  
+ 
+Hypoglycemia was more frequent when MOUNJARO  was used in combination with a sulfonylurea or basal 
+insulin than when used with non -secretagogues (see 7 WARNINGS AND PRECAUTIONS ). In study 
+SURPASS -4, severe hypoglycemia occurred in 0.5%, 0.0%, 0.6% and 1.1% of patients when MOUNJARO  
+5 mg, 10  mg, 15  mg or insulin glargine, respectively , was co-administered with a sulfonylurea. Severe  
+hypoglycemia or hypoglycemia with glucose <3.0 mmol/L occurred in 13.8%, 9.9%, 12.9% and 21.6% of 
+patients when MOUNJARO  5 mg, 10  mg, 15  mg or insulin glargine, respectively , was co -administered with a 
+sulfonylurea.  
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 14 of 61 
+ In the SURPASS -2 study , severe hypo glycemia or hypoglycemia  with glucose <3.0 mmol/L  occurred in 0.9%, 
+0.2%, 1.7% and 0.4% of patients when MOUNJARO 5  mg, 10  mg, 15  mg or semaglutide 1  mg, respectively , 
+was co-administered with metformin . 
+In the SURPASS -3 study , no cases of severe hypoglycemia occurred when MOUNJARO  5 mg, 10  mg, 15  mg 
+or insulin degludec, was co -administered with a SGLT2i. Severe hypoglycemia or hypoglycemia with glucose 
+<3.0 mmol/L  occurred in 1.8%, 1.7%, 2.7% and 8.6% of patients when MOUNJARO  5 mg, 10  mg, 15  mg or 
+insulin degludec, respectively , was co -administered with a SGLT2i.  
+Immunogenicity  
+Across seven Phase  3 clinical studies, 2,570 (51.1%) MOUNJARO -treated patients developed anti -drug 
+antibodies (ADAs). Of the 2,570 MOUNJARO -treated patients that developed tirzepatide ADAs, 94 (1.9% of 
+the overall population) and 107 (2.1% of the overall population) had neutralizing antibodies against tirzepatide 
+activity on the GIP and GLP -1 receptors , respectively , and 43  (0.9% of the overall population) and 18 (0.4% of 
+the overall population) had neutralizing antibodies against native GIP and GLP -1, resp ectively. There was no 
+evidence of an altered pharmacokinetic profile, or an impact on efficacy and safety associated with the 
+development of ADAs.  
+The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. 
+Additionally, the observed incidence of antibody positivity (including neutralizing antibody) in an assay may be 
+influenced by several factors including assay methodology, sample handling, timing of sample collection, 
+concomitant medications, and underlying disease. For these reasons, the incidence of antibodies to  tirzepatide 
+cannot be directly compared with the incidence of antibodies of other products . 
+Hypersensitivity Reactions  
+Hypersensitivity reactions , sometimes severe (e.g., urticaria  and eczema ), have been reported in clinical trials 
+with MOUNJARO . 
+In the pool of placebo -controlled trials, hypersensitivity reactions were reported in 3.2% of MOUNJARO -treated 
+patients compared to 1.7% of placebo -treated patients.  
+In the pool of seven clinical trials, hypersensitivity reactions occurred in 106/2,570 (4.1%) of MOUNJARO -
+treated patients with anti -tirzepatide antibodies and in 73/2,455 (3.0%) of MOUNJARO -treated patients who did 
+not develop anti -tirzepatide antibodies (see 7 WARNINGS AND PRECAUTIONS ). 
+Injection Site Reactions  
+In the pool of placebo -controlled trials, injection site reactions were reported in 3.2% of MOUNJARO -treated 
+patients compared to 0.4% of placebo -treated patients. In the pool of seven clinical trials, injection site 
+reactions occurred in 119/2,570 (4.6%) of MOUNJARO -treated patients with anti -tirzepatide antibodies and in 
+18/2,455 (0.7%) of MOUNJARO -treated patients who did not develop anti -tirzepatide antibodies.  
+8.3 Less Common Clinical Trial Adverse Reactions   
+Hepa tobiliary disorders: acute gallbladder disease  
+Pancreatic disorders: pancreatitis  
+Nervous System Disorders:  dysgeusia  
+8.4 Abnormal Laboratory Findings: Hematologic, Clinical Chemistry and Other Quantitative Data   
+Pancreatic Enzymes  
+Amylase and lipase were measured in the clinical trials. Treatment with tirzepatide resulted in mean  increases 
+from baseline in  pancreatic amylase of 33%  to 38% and lipase of 31% to 42%.  The percentage of patients with 
+values above 3 times the upper limit of normal for amylase or lipase at any timepoint on -treatment after 
+baseline are presented below. The clinical significance of elevations of amylase or lipase in patients without 
+other si gns and symptoms of pancreatitis is unknown (see 7 WARNINGS AND PRECAUTIONS ). 
+ 
+Table 4: Amylase and Lipase  
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 15 of 61 
+  Placebo -Controlled Trials  All Phase 3 Trials  
+ MOUNJARO  
+5 mg 
+N= 237 
+n (%) MOUNJARO  
+10 mg 
+N= 240 
+n (%) MOUNJARO  
+15 mg 
+N= 241 
+n (%) Placebo  
+N= 235 
+n (%) MOUNJARO  
+5 mg 
+N= 1701  
+n (%) MOUNJARO  
+10 mg 
+N= 1702  
+n (%) MOUNJARO  
+15 mg 
+N= 1716  
+n (%) 
+Amylase  
+> 3X ULN 5 (2.1)  1 (0.4)  2 (0.8)  0 31 (1.8) 38 (2.2) 30 (1. 7) 
+Lipase   
+> 3X ULN  16 (6.8)  15 (6.3) 13 (5.4) 6 (2.6)  131 ( 7.7) 146 ( 8.6) 165 ( 9.4) 
+%: percentage of patients; N: number of patients; ULN: upper limit of normal  
+ 
+8.5 Post -market Adverse Reactions   
+The following additional adverse reactions have been reported  during post -approval use of MOUNJARO. 
+Because these events are reported voluntarily from a population of uncertain size, it is generally not possible to 
+reliably estimate their frequency or establish a causal relationship to drug exposure.  
+Gastrointestinal disorders: ileus 
+Immune system disorders : anaphylactic reaction  
+Nervous system disorders:  dysesthesia  
+Skin and subcutaneous tissue disorders:  angioedema  
+9 DRUG INTERACTIONS   
+9.2 Drug Interactions Overview   
+MOUNJARO  delays gastric emptying, and thereby has the potential to impact the absorption of concomitantly 
+administered oral medications. The impact of tirzepatide on gastric emptying was greatest after a single dose 
+of 5 mg and diminished after subsequent doses . Dose adjustments with concomitant use of insulin 
+secretagogues (e.g., sulfonylurea) or insulin  may be necessary ( see 7 WARNINGS AND PRECAUTIONS  
+and 8.2 Clinical Trial Adverse Reactions ). 
+9.4 Drug -Drug Interactions   
+The drugs listed in this table are based on either drug interaction case reports or studies, or potential 
+interactions due to the expected magnitude and seriousness of the interaction (i.e., those identified as 
+contraindicated).  
+ 
+Table 5: Established or Potential Drug-Drug Interactions  
+Proper/Common 
+Name  Source of 
+Evidence  Effect  Clinical Comment  
+Acetaminophen  Clinical Trial  Following the first dose of 
+tirzepatide 5  mg, acetaminophen 
+Cmax was reduced by 50%, and 
+the median t max occurred 1 hour 
+later.  
+After co -administration for 4 
+weeks, there was no meaningful 
+impact on acetaminophen C max 
+and t max. Overall acetaminophen 
+exposure (AUC 0-24hr) was not 
+influenced.  No dose adjustment of 
+acetaminophen is 
+necessary when 
+administered with 
+tirzepatide.  
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 16 of 61 
+ Oral Contraceptives  Clinical Trial  Administration of a combination 
+oral contraceptive (0.035  mg 
+ethinyl estradiol plus 0.25  mg 
+norgestimate) in the presence of 
+a single dose of tirzepatide (5  mg) 
+resulted in a reduction of oral 
+contraceptive C max by 55 to 66%, 
+with a 16 to 23% reduction in 
+AUC and a delay in t max of 2.5 to 
+4.5 hours. These effects may be 
+due to the impact of MOUNJARO 
+on gastric emptying.  Advise patients using 
+oral hormonal 
+contraceptives to 
+switch to a non -oral 
+contraceptive method, 
+or to add a barrier 
+method of 
+contraception for 4 
+weeks after initiation 
+and for 4 weeks after 
+each dose escalation 
+with MOUNJARO.  
+Drugs that Increase 
+Heart Rate  Clinical Trial  MOUNJARO resulted in a mean 
+increase in heart rate of 2 to 4 
+beats per minute. There was a 
+mean increase in heart rate of 0.7 
+beats per minute in placebo -
+treated patients.  Caution should be 
+observed if 
+MOUNJARO is 
+administered with other 
+drugs that also 
+increase heart rate, 
+such as drugs with 
+sympathomimetic or 
+anticholinergic activity 
+(see 7 WARNINGS 
+AND PRECAUTIONS ). 
+ 
+Drugs that Cause PR Interval or QTc Interval Prolongation  
+In phase 3 clinical studies, no clinically meaningful treatment -emergent differences in PR interval or QTc 
+duration were noted between placebo, tirzepatide, or comparators.  
+A dedicated thorough QT study has not been conducted with MOUNJARO . 
+9.5 Drug -Food Interactions   
+Interactions with food have not been studied.  
+9.6 Drug -Herb Interactions   
+Interactions with herbal products have not been studied.  
+9.7 Drug -Laboratory Test Interactions   
+Interactions with laboratory tests have not been studied.  
+9.8 Drug -Lifestyle Interactions   
+No studies on the effects of the ability to drive and use machines have been performed. When MOUNJARO  is 
+used in combination with a sulfonylurea or insulin, patients should be advised to take precautions to avoid 
+hypoglycemia while driving and using machines.  
+10 CLINICAL PHARMACOLOGY   
+10.1 Mechanism of Action   
+Tirzepatide is a GIP  and a GLP-1 receptor agonist. It is a n amino acid sequence  with a C20 -fatty diacid moiety 
+that enables albumin binding and prolong s the half-life. 
+Tirzepatide is selective to human GIP and GLP -1 receptors. The activity  of tirzepatide on the GIP receptor is 
+similar to native GIP hormone. The activity  of tirzepatide on the GLP -1 receptor is lower compared to native 
+GLP-1 hormone.  
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 17 of 61 
+ Tirzepatide enhances first - and second -phase insulin secretion, and reduces plasma glucagon levels, both in a 
+glucose -dependent manner.  
+10.2 Pharmacodynamics   
+Tirzepatide lower s fasting and postprandial glucose concentrations through the mechanisms described below , 
+and is associated with reduced food intake,  in patients with type  2 diabetes . 
+Insulin Secretion  
+In a hyperglycemic clamp study in patients with type  2 diabetes mellitus, tirzepatide 15  mg enhanced the first - 
+and second -phase insulin secretion rate (Figure 1). 
+ 
+Figure  1: Mean Insulin Concentration at 0 -120 Minutes During Hyperglycemic Clamp at Baseline and 
+Week 28  
+Insulin Sensitivity  
+In a hyperinsulinemic euglycemic clamp study, tirzepatide  15 mg increased whole -body insulin sensitivity by 
+63%, as measured by M -value  at 28 weeks . The M -value was unchanged for patients receiving placebo. In this 
+study , tirzepatide also lower ed body weight in patients with type  2 diabetes.  
+Glucagon Concentration  
+Tirzepatide reduces the fasting and postprandial glucagon concentrations . After 28 weeks of treatment , 
+tirzepatide 15  mg reduced fasting glucagon concentration by 28% and glucagon AUC after a mixed meal by 
+43%, compared with no change for placebo.  
+Gastric Emptying  
+Tirzepatide delays  gastric emptying . The delay in gastric emptying  with tirzepatide is largest after the first dose 
+and diminishes with subsequent doses.  
+Vital Signs  
+Blood Pressure  
+In placebo -controlled Phase 3 trials, treatment with MOUNJARO  resulted in a mean decrease in systolic and 
+diastolic blood pressure of 6 to 9 mmHg and 3 to 4 mmHg, respectively. There was a mean decrease in 
+systolic and diastolic blood pressure of 2 mmHg each in placebo -treated patients.  
+
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 18 of 61 
+ Cardiac Electrophysiology  
+In phase  3 clinical studies, no clinically meaningful treatment -emergent differences in PR interval or QTc 
+duration were noted between placebo, MOUNJARO , or comparators. A dedicated thorough QT study has not 
+been conducted with MOUNJARO . 
+QTc and PR interval were evaluated using a population pharmacokinetic model -based analyses utilizing all 
+data from healthy participants and patients with T2DM who were given either placebo or tirzepatide in one 
+phase  1 study and two phase  2 studies.  Concentration -QTc analysis and concentration -PR interval analysis 
+based upon these three studies  did not suggest an association between tirzepatide  and QTc prolongation or 
+PR interval  duration . 
+10.3 Pharmacokinetics   
+The pharmacokinetics of tirzepatide is similar between healthy subjects  and patients with type  2 diabetes 
+mellitus. Steady -state plasma tirzepatide concentrations were achieved following 4 weeks of once -weekly 
+administration. Tirzepatide exposure increases in a dose -proportional manner.  
+Absorption  
+Following subcutaneous administration, the time to maximum plasma concentration of tirzepatide ranges from 
+8 to 72 hours. The mean absolute bioavailability of tirzepatide following subcutaneous administration was 80%. 
+Similar exposure was achieved with subcutaneous administration of tirzepatide in the abdomen, thi gh, or upper 
+arm. 
+Distribution  
+The mean apparent steady -state volume of distribution of tirzepatide following subcutaneous administration in 
+patients with type  2 diabetes is approximately 10.3  L. Tirzepatide is highly bound to plasma albumin (99%).  
+Metabolism  
+Tirzepatide is metabolized by proteolytic cleavage of the peptide backbone, beta -oxidation of the C20 -fatty 
+diacid moiety and amide hydrolysis.  
+Elimination  
+The primary excretion routes of tirzepatide metabolites are via urine and feces. Intact tirzepatide is not 
+observed in urine or feces. The apparent population mean clearance of tirzepatide is 0.061  L/h with an 
+elimination half -life of approximately 5 days, enabling once -weekly dosing.  
+Special Populations and Conditions  
+ Pediatrics : tirzepatide has not been studied in pediatric patients.   
+ Geriatrics : age had no effect on the pharmacokinetics of tirzepatide . 
+ Sex: sex had no effect on the pharmacokinetics of tirzepatide . 
+ Pregnancy and Breast -feeding : studies characterizing the pharmacokinetics of tirzepatide in pregnant 
+and breast -feeding patients have not been performed.  
+ Ethnic O rigin : race had no clinically meaningful effect on the pharmacokinetics of tirzepatide . 
+ Hepatic Impairment : hepatic impairment does not impact the pharmacokinetics of tirzepatide. The 
+pharmacokinetics of tirzepatide after a single 5  mg dose was evaluated in patients with different degrees of 
+hepatic impairment (mild, moderate, severe) compared with participants  with normal hepatic function  (see 
+4 DOSAGE AND ADMINISTRATION  and 7.1 Special Populations ). 
+ Renal Impairment : renal impairment does not impact the pharmacokinetics of tirzepatide. The 
+pharmacokinetics of tirzepatide after a single 5  mg dose was evaluated in patients with different degrees of 
+renal impairment (mild, moderate, severe, ESRD) compared with participants  with normal renal function. 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 19 of 61 
+ This was also shown for patients with both T2DM and mild, moderate or severe  renal insufficiency based 
+on data from clinical studies (see 4 DOSAGE AND ADMINISTRATION  and 7.1 Special Populations ). 
+ Obesity : pharmacokinetic analyses have demonstrated a n observed  inverse relationship between body 
+weight and tirzepatide  exposure, although there was no clinically relevant impact of weight on glycemic 
+control.  
+11 STORAGE , STABILITY  AND DISPOSAL   
+MOUNJARO  single -dose prefilled pen  and vial: 
+ Store MOUNJARO  in a refrigerator at 2°C to 8°C , up to the expiration date. Do not use  MOUNJARO  
+beyond the expiration date . 
+ Do not freeze  MOUNJARO . Do not use  MOUNJARO  if frozen . 
+ Store MOUNJARO  in the original carton to  protect from light . 
+ If needed, each single -dose pen or vial can be stored unrefrigerated  for up to 21 days  at temperatures 
+not to exceed  30°C. 
+ The single -dose prefilled pen must be discarded after use in a puncture -resistant container.  
+ Throw away all opened vials after use, even if there is medicine left in the vial.  
+MOUNJARO  KwikPen  multi-dose prefilled pen: 
+ Store MOUNJARO  KwikPen  in a refrigerator at 2°C to 8°C up to the expiration date. Do not use 
+MOUNJARO  KwikPen beyond the expiration date.  
+ Do not freeze MOUNJARO  KwikPen . Do not use MOUNJARO  KwikPen  if frozen.  
+ Protect MOUNJARO KwikPen  from light.  
+ If needed, each multi -dose prefilled KwikP en can be stored unrefrigerated at temperatures not to 
+exceed 30°C for up to 30  days.  
+ The MOUNJARO KwikPen  must be discarded after four weekly  dose s in a puncture -resistant container  
+or in accordance with local requirements . 
+12 SPECIAL HANDLING INSTRUCTIONS   
+Each single -dose prefilled pen or vial delivers  one single  dose  of tirzepatide  only.  
+Each multi -dose prefilled pen (MOUNJARO KwikPen)  delivers four doses  of tirzepatide . 
+MOUNJARO  should not be used if the pen , KwikPen,  or vial is damaged.  
+MOUNJARO  should not be used if it does not appear clear , free of particles , and colourless to slightly yellow . 
+If the pen, KwikPen  or vial is dropped on a hard surface, it should not be used.  
+  
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 20 of 61 
+ PART  II: SCIENTIFIC INFORMATION   
+13 PHARMACEUTICAL INFORMATION   
+Drug Substance  
+Proper /common  name:  tirzepatide  
+Molecular formula and molecular mass: C225H348N48O68 and 4813 Da lton 
+Structural formula:  
+ 
+Physiochemical properties: White to practically white amorphous solid  
+Table  6: Tirzepatide Substance Solubility Profile  
+Solvent  Solubility of 
+Tirzepatide  
+(mg/mL)  Part of Solvent Required 
+for 1 Part of Solute  
+(g of Solute per Volume 
+of Solvent)  Solubility 
+Descriptiona 
+5-mM Phosphate 
+Buffer pH 7.0  Not less than 120 at 
+25°C  8.33 mL to dissolve 1  g Freely Soluble  
+a Solubility descriptions are consistent with the USP, Ph.Eur., and Japanese Pharmacopoeias  
+Product Characteristics : 
+MOUNJARO  (tirzepatide injection ), for subcutaneous use, contains tirzepatide, a long -acting once -weekly GIP 
+and GLP -1 receptor agonist. Tirzepatide  is based on  the GIP sequence and contai ns aminoisobutyric acid 
+(Aib) in positions 2 and 13, a C -terminal amide, and Lys residue at position 20 is attached to 1,20 -
+eicosanedioic acid via a linker.  MOUNJARO has a pH of 6.5 -7.5. 
+
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 21 of 61 
+ 14 CLINICAL TRIALS   
+14.1 Clinical Trials by Indication   
+Glycemic Control in Adult Patients with Type  2 Diabetes  
+Table  7: Summary of Patient Demographics for Clinical Trials in Type  2 Diabetes  
+Study #  Study  Design   Dosage, Route of 
+Administration  
+and Duration   Background 
+Therapy  Study 
+participants  
+(n=number ) Mean age 
+(Range)  Sex 
+(%) 
+SURPASS -1 Phase  3, 
+multicenter,  
+randomized, 
+parallel -arm, 
+placebo -
+controlled , 
+double -blind  
+trial MOUNJARO : 
+5 mg, 10  mg, 
+15 mg, SC, 
+weekly  
+ 
+Placebo: SC, 
+weekly   
+ 
+Duration:  
+40 weeks  None  478 54 years  
+(18-88) 52% male  
+48% female  
+SURPASS -2 Phase  3, 
+multicenter, 
+randomized, 
+parallel -arm, 
+open label, 
+active 
+comparator -
+controlled, 
+trial MOUNJARO : 
+5 mg, 10  mg, 
+15 mg, SC, 
+weekly  
+ 
+Semaglutide: 
+1 mg SC, weekly  
+ 
+Duration:  
+40 weeks  Metformin  
+(100%)  1879  57 years  
+(21-91) 47% male  
+53% female  
+SURPASS -3 Phase  3, 
+multicenter, 
+randomized, 
+parallel -arm, 
+open label, 
+active 
+comparator -
+controlled  trial MOUNJARO : 
+5 mg, 10  mg, 
+15 mg, SC, 
+weekly  
+ 
+Titrated i nsulin 
+degludec  
+100 U/mL  
+ 
+Duration:  
+52 weeks  Metformin  
+(100%)  
+SGLT -2i 
+(32%) 1444  57 years  
+(22-84) 56% male  
+44% female  
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 22 of 61 
+ SURPASS -4 Phase 3, 
+multicenter, 
+randomized , 
+parallel -arm, 
+open label, 
+active 
+comparator - 
+controlled  trial MOUNJARO : 
+5 mg, 10  mg, 
+15 mg, SC, 
+weekly  
+ 
+Titrated i nsulin 
+glargine 100 U/mL  
+ 
+Duration:  
+up to 104 weeks  
+(primary outcome 
+52 weeks)  1-3 
+background 
+OAMs:  
++/- 
+Metformin  
+(95%)  
++/- 
+Sulfonylurea  
+(54%) 
++/- 
+SGLT -2i 
+(25%)  2002  64 years  
+(32-91) 63% male  
+37% female  
+SURPASS -5 Phase  3, 
+multicenter, 
+randomized, 
+parallel -arm, 
+placebo -
+controlled, 
+double -blind 
+trial MOUNJARO : 
+5 mg, 10  mg, 
+15 mg, SC, 
+weekly  
+ 
+Placebo: SC, 
+weekly  
+ 
+Duration:  
+40 weeks  Metformin  
+(83%) 
+ 
+Titrated 
+insulin 
+glargine  
+100 U/mL 
+(100%)  475 61 years  
+(27-83) 56% male  
+44% female  
+ 
+A total of 6263  patients with type  2 diabetes mellitus and inadequate glycemic control were randomized, of 
+whom 4199  received at least one dose of study drug, in 5 placebo - and/or active -controlled, glycemic control 
+global p hase 3 studies to evaluate the safety and efficacy of MOUNJARO . Of these, 2082  (33%) patients were 
+≥65 years and 317 (5%) were ≥75 years. Patients had an overall mean age of 59 years (range 18 to 91 years). 
+55% were male and 45% were female. The racial distribution of patients in these studies was 81% White, 7% 
+Asian, 4% African American, and 8% other racial origin. The mean body mass index (BMI) overall was 
+33 kg/m2 at baseline, and the duration of diabetes was 9.6 years.  
+Monotherapy Use of MOUNJARO  in Patients with Type  2 Diabetes Mellitus  (SURPASS -1) 
+SURPASS -1 was a 40 -week double -blind trial that randomized 478 patients with type  2 diabetes mellitus with 
+inadequate glycemic control with diet and exercise to MOUNJARO  5 mg, 10  mg, or 15  mg once weekly or 
+placebo.  
+Patients had a mean age of 54 years and 52% were men. The mean duration of type  2 diabetes mellitus was 
+4.7 years and the mean BMI was 32  kg/m2. Overall, 36% were White, 5% were Black or African American, and 
+35% were Asian; 43% identified as Hispanic or Latino ethnicity.  
+Monotherapy with MOUNJARO  5 mg, 10  mg and 15  mg once weekly for 40 weeks resulted in a statistically 
+significant reduction in HbA1c compared with placebo ( see Table  8). 
+ 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 23 of 61 
+ Table  8: Results at Week 40 in a Trial of MOUNJARO  as Monotherapy in Adult Patients with Type  2 
+Diabetes Mellitus with Inadequate Glycemic Control with Diet and Exercise  
+ MOUNJARO  
+5 mg MOUNJARO  
+10 mg MOUNJARO  
+15 mg Placebo  
+Modified Intent -to-Treat (mITT) 
+Population (N)a 121 121 120 113 
+Primary Endpoint  
+HbA1c (%) 
+Baseline (mean)  8.0 7.9 7.9 8.1 
+Change at Week 40b -1.8 -1.7 -1.7 -0.1 
+Difference from placebob (95% CI)  -1.7  
+(-2.0, -1.4) -1.6  
+(-1.9, -1.3) -1.6  
+(-1.9, -1.3) -- 
+p-valuec <0.001  <0.001  <0.001  -- 
+Key Secondary Endpoints  
+Patients (%) achieving HbA1c <7% 82c 85c 78c 23 
+Patients (%) achieving HbA1c <5.7%  31c 27c 38c 1 
+Fasting Serum Glucose  (mmol/L)  
+Baseline (mean)  8.5 8.5 8.5 8.6 
+Change at Week 40b -2.2 -2.2 -2.1 0.2 
+Difference from placebob (95% CI)  -2.4c  
+(-3.0, -1.8) -2.4c 
+(-3.1, -1.8) -2.3c 
+(-3.0, -1.7) -- 
+Body Weight (kg)  
+Baseline (mean)  87.0 86.2 85.5 84.5 
+Change from baselineb  -6.3 -7.0 -7.8 -1.0 
+Difference from placebob (95% CI)  -5.3c  
+(-6.8, -3.9) -6.0c 
+(-7.4, -4.6) -6.8c  
+(-8.3, -5.4) -- 
+a The modified intent -to-treat population consists of all randomly assigned participants who were exposed to at least 1 dose of 
+study drug. Patients who discontinued study treatment due to inadvertent enrollment were excluded. At Week 40 , the HbA1c 
+data w ere missing for 6%, 7%, 14%, and 12% of patients randomized to MOUNJARO  5 mg, 10  mg, 15  mg, and placebo, 
+respectively. During the trial, rescue medication (additional antihyperglycemic medication) was initiated by 2%, 3%, 2%, and 
+25% of patients randomized to MOU NJARO  5 mg, 10  mg, 15  mg, and placebo, respectively. Missing Week 40 data were 
+imputed using placebo multiple imputation.  
+b Least -squares mean from ANCOVA adjusted for baseline value and other stratification factors.  
+c p<0.001 for superiority vs. placebo,  controlled  for multiplicity.  
+ 
+Combination Therapy Use of MOUNJARO  in Patients with Type  2 Diabetes Mellitus  
+Combination with metformin  (SURPASS -2) 
+SURPASS -2 was a 40 -week open -label trial (double -blind with respect to MOUNJARO  dose assignment) that 
+randomized 1879 patients with type  2 diabetes mellitus with inadequate glycemic control on stable doses of 
+metformin alone to once weekly MOUNJARO  5 mg, 10  mg, or 15  mg or subcutaneous semaglutide 1  mg, all in 
+combination with metformin.  
+Patients had a mean age of 57 years and 47% were men. The mean duration of type  2 diabetes mellitus was 
+8.6 years and the mean BMI was 34 kg/m2. Overall, 83% were White, 4% were Black or African American, and 
+1% were Asian; 70% identified as Hispanic or Latino ethnicity.  
+Treatment with MOUNJARO  10 mg and 15  mg once weekly for 40 weeks resulted in a statistically significant 
+reduction in HbA1c compared with semaglutide 1  mg once weekly ( see Table  9 and Figure  2). 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 24 of 61 
+ Table 9: Results at Week 40 in a Trial of MOUNJARO  versus Semaglutide 1  mg in Adult Patients with 
+Type  2 Diabetes Mellitus in Combination with Metformin  
+ MOUNJARO  
+5 mg MOUNJARO  
+10 mg MOUNJARO  
+15 mg Semaglutide  
+1 mg 
+Modified Intent -to-Treat (mITT) 
+Population (N)a 470 469 469 468 
+Primary Endpoint  
+HbA1c (%) 
+Baseline (mean)  8.3 8.3 8.3 8.3 
+Change at Week 40b -2.0 -2.2 -2.3 -1.9 
+Difference from semaglutideb 
+(95% CI)  -0.2 
+(-0.3, -0.0) -0.4  
+(-0.5, -0.3) -0.5 
+(-0.6, -0.3) -- 
+p-value 0.018c <0.001e <0.001e -- 
+Key Secondary Endpoints  
+Patients (%) achieving HbA1c 
+<7% 82 86d 86d 79 
+Patients (%) achieving HbA1c 
+<5.7%  27 40e 46e 19 
+Fasting Serum Glucose  (mmol/L)  
+Baseline (mean)  9.7 9.7 9.6 9.5 
+Change at Week 40b -3.0 -3.3 -3.3 -2.7 
+Body Weight (kg)  
+Baseline (mean)  92.5 94.8 93.8 93.7 
+Change from baselineb  -7.6 -9.3 -11.2 -5.7 
+Difference from semaglutideb 
+(95% CI)  -1.9d  
+(-2.8, -1.0) -3.6d  
+(-4.5, -2.7) -5.5d 
+(-6.4, -4.6) -- 
+a The modified intent -to-treat population consists of all randomly assigned participants who were exposed to at least 1 dose of 
+study drug. Patients who discontinued study treatment due to inadvertent enrollment were excluded. At Week 40 the HbA1c 
+endpoint was missing for 4%, 5%, 5%, and 5% of patients randomized to MOUNJARO  5 mg, 10  mg, 15  mg, and semaglutide 
+1 mg, respectively. During the trial, rescue medication (additional antihyperglycemic medication) was initiated by 2%, 1%, 
+1%, and 3% of patients rando mized to MOUNJARO  5 mg, 10  mg, 15  mg, and semaglutide 1  mg, respectively. Missing Week 
+40 data were imputed using multiple imputation with retrieved dropout.  
+b Least -squares mean from ANCOVA adjusted for baseline value and other stratification factors.  
+c p<0.0 5 for superiority vs. semaglutide, controll ed for multiplicity.  
+d p<0.01 for superiority vs. semaglutide,  controll ed for multiplicity.  
+e p<0.001 for superiority vs. semaglutide, controlled  for multiplicity.  
+ 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 25 of 61 
+  
+Note: Displayed results are from modified Intent -to-Treat Full Analysis Set. (1) Observed mean value from Week 0 to Week 40, 
+and (2) least squares mean ± standard error at Week 40 multiple imputation (MI).  
+Figure  2: Mean HbA1c (%) Over Time - Baseline to Week 40  
+ 
+Combination with metformin with or without SGLT -2i (SURPASS -3) 
+SURPASS -3 was a 52 -week open -label trial that randomized 1444 patients with type  2 diabetes mellitus with 
+inadequate glycemic control on stable doses of metformin with or without SGLT2i  to once weekly MOUNJARO  
+5 mg, 10  mg, 15  mg, or titrated insulin degludec 100  units/mL once daily. 32% of patients were on SGLT2i.  
+Patients randomized to insulin degludec initially received 10  units once daily. The dose was adjusted weekly 
+throughout the trial using a treat -to-target algorithm based on self -measured fasting b lood glucose values, 
+targeting <5  mmol/L. By the primary endpoint at Week 52, the mean daily insulin degludec dose was 49 U 
+(0.5 U per kilogram) per day.  
+Patients had a mean age of 57 years and 56% were men. The mean duration of type  2 diabetes mellitus was 
+8.4 years and the mean BMI was 34  kg/m2. Overall, 91% were White, 3% were Black or African American, and 
+5% were Asian; 29% identified as Hispanic or Latino ethnicity.  
+Treatment with MOUNJARO  10 mg and 15  mg once weekly for 52 weeks resulted in a statistically significant 
+reduction in HbA1c compared with daily insulin degludec ( see Table  10 and Figure  3). 
+ 
+
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 26 of 61 
+ Table  10: Results at Week 52 in a Trial of MOUNJARO  versus Insulin Degludec in Adult Patients with 
+Type  2 Diabetes Mellitus in Combination with Metformin with or without SGLT -2i 
+ MOUNJARO  
+5 mg MOUNJARO  
+10 mg MOUNJARO  
+15 mg Insulin 
+Degludec  
+Modified Intent -to-Treat 
+(mITT)a Population (N)  358 360 358 359 
+Primary Endpoint  
+HbA1c (%) 
+Baseline (mean)  8.2 8.2 8.2 8.1 
+Change at Week 52b -1.9 -2.0 -2.1 -1.3 
+Difference from insulin 
+degludecb (95% CI)  -0.6 
+(-0.7, -0.5) -0.8 
+(-0.9, -0.6) -0.9  
+(-1.0, -0.7) -- 
+p-valuec <0.001  <0.001  <0.001  -- 
+Key Secondary Endpoints  
+Patients (%) achieving HbA1c 
+<7% 79c 82c 83c 58 
+Patients (%) achieving HbA1c 
+<5.7%  24 34 41 5 
+Fasting Serum Glucose  (mmol/L)  
+Baseline (mean)  9.5 9.5 9.4 9.3 
+Change at Week 52b -2.6 -2.8 -3.0 -2.8 
+Body Weight (kg)  
+Baseline (mean)  94.4 93.8 94.9 94.0 
+Change from baselineb  -7.0 -9.6 -11.3 1.9 
+Difference from insulin 
+degludecb (95% CI)  -8.9c  
+(-10.0, -7.8) -11.5c  
+(-12.6, -10.4)  -13.2c  
+(-14.3, -12.1)  -- 
+a The modified intent -to-treat population consists of all randomly assigned participants who were exposed to at least 1 dose of 
+study drug. Patients who discontinued study treatment due to inadvertent enrollment were excluded. At Week 52 the HbA1c 
+endpoint was missing for 6%, 10%, 5%, and 9% of patients randomized to MOUNJARO  5 mg, 10  mg, 15  mg, and insulin 
+degludec, respectively. During the trial, rescue medication (additional antihyperglycemic medication) was initiated by 1%, 
+1%, 2%, and 1% of patients rand omized to MOUNJARO  5 mg, 10  mg, 15  mg, and insulin degludec, respectively. Missing 
+Week 52 data were imputed using multiple imputation with retrieved dropout.  
+b Least -squares mean from ANCOVA adjusted for baseline value and other stratification factors.  
+c p<0.001 for superiority vs. insulin degludec, controlled  for multiplicity.  
+ 
+ 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 27 of 61 
+  
+Note: Displayed results are from modified Intent -to-Treat Full Analysis Set. (1) Observed mean value from Week 0 to Week 52, 
+and (2) least squares mean ± standard error at Week 52 multiple imputation (MI).  
+Figure 3: Mean HbA1c (%) over time - Baseline to Week 52  
+ 
+Combination with metformin, sulfonylurea and/or SGLT -2i (SURPASS -4) 
+SURPASS -4 was a 104 -week open -label trial (52 -week primary endpoint) that randomized 2002 patients with 
+type 2 diabetes mellitus with increased cardiovascular risk to MOUNJARO  5 mg, 10  mg, 15  mg once weekly, 
+or insulin glargine 100  units/mL once daily (1:1:1:3 ratio) on a background of metformin (95%) and/or 
+sulfonylureas (54%) and/or SGLT2i  (25%) (see Table 1 1 for further information regarding the number of 
+patients on each  combination ). 
+Table 1 1: Summary of Baseline Antihyperglycemic Medications in SURPASS -4 
+Background Therapy  MOUNJARO 
+5 mg 
+(N=329 ) MOUNJARO 
+10 mg 
+(N=328 ) MOUNJARO 
+15 mg 
+(N=338) Insulin 
+Glargine  
+(N=1000)  Total  
+(N=1995)  
+Metformin alone  99 (30.1)  107 (32.6)  112 (33.1)  321 (32.1)  639 (32.0)  
+Metformin plus 
+Sulfonylurea  136 (41.3)  132 (40.2)  124 (36.7)  388 (38.8)  780 (39.1)  
+Metformin plus SGLT2i  37 (11.2)  37 (11.3)  45 (13.3)  138 (13.8)  257 (12.9)  
+Metformin plus 
+Sulfonylurea plus 
+SGLT2i  34 (10.3)  40 (12.2)  36 (10.7)  107 (10.7)  217 (10.9)  
+SU alone  16 (4.9)  8 (2.4)  16 (4.7)  34 (3.4)  74 (3.7)  
+SGLT2i alone  4 (1.2)  3 (0.9)  2 (0.6)  3 (0.3)  12 (0.6)  
+SU plus SGLT2i  3 (0.9)  1 (0.3)  3 (0.9)  8 (0.8)  15 (0.8)  
+ 
+
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 28 of 61 
+ Patients had a mean age of 64 years and 63% were men. The mean duration of type  2 diabetes mellitus was 
+11.8 years and the mean BMI was 33 kg/m2. Overall, 82% were White, 4% were Black or African American, 
+and 4% were Asian; 48% identified as Hispanic or Latino ethnicity. Across all treatment groups, 87% of 
+patients had a history of cardiovascular disease as a preexisting condition. At baseline, e GFR was 
+≥90 mL/min/1.73  m2 in 43%, 60 to 90  mL/min/1.73  m2 in 40%, 45 to 60  mL/min/1.73  m2 in 10%, and 30 to 
+45 mL/min/1.73  m2 in 6% of patients.  
+Patients assigned to insulin glargine were started on a dose of 10  U once daily. The dose was adjusted weekly 
+throughout the trial using a treat -to-target algorithm based on self -measured fasting blood glucose values, 
+targeting < 5.6 mmol/L. By the primary endpoint at week 52, the mean daily insulin glargine dose was 44  U 
+(0.5 U per kilogram) per day.  
+Treatment with MOUNJARO  10 mg and 15  mg once weekly for 52 weeks resulted in a statistically significant 
+reduction in HbA1c compared with insulin glargine once daily  (see Table  12 and Figure  4). 
+Table  12: Results at Week 52 in a Trial of MOUNJARO  versus Insulin Glargine in Adult Patients with 
+Type  2 Diabetes Mellitus in Combination with Metformin and/or Sulfonylurea and/or SGLT -2i 
+ MOUNJARO  
+5 mg MOUNJARO  
+10 mg MOUNJARO  
+15 mg Insulin 
+Glargine  
+Modified Intent -to-Treat (mITT) 
+Population (N)a 328 326 337 998 
+Primary Endpoint  
+HbA1c (%)  
+Baseline (mean)  8.5 8.6 8.5 8.5 
+Change at Week 52b -2.1 -2.3 -2.4 -1.4 
+Difference from insulin 
+glargineb (95% CI)  -0.7  
+(-0.9, -0.6) -0.9  
+(-1.1, -0.8) -1.0  
+(-1.2, -0.9) -- 
+p-value  <0.001  <0.001  <0.001  -- 
+Key Secondary Endpoints  
+Patients (%) achieving HbA1c 
+<7% 75c 83c 85c 49 
+Patients (%) achieving HbA1c 
+<5.7%  22 31 38 4 
+Fasting Serum Glucose  (mmol/L)  
+Baseline (mean)  9.6 9.8 9.7 9.4 
+Change at Week 52b -2.5 -2.8 -3.0 -2.7 
+Body Weight (kg)  
+Baseline (mean)  90.3 90.6 90.0 90.2 
+Change from baselineb  -6.4 -8.9 -10.6 1.7 
+Difference from insulin 
+glargineb (95% CI)  -8.1c  
+(-8.9, -7.3) -10.6c 
+(-11.4, -9.8) -12.2c  
+(-13.0, -11.5)  -- 
+a The modified intent -to-treat population consists of all randomly assigned participants who were exposed to at least 1 dose of 
+study drug. Patients who discontinued study treatment due to inadvertent enrollment were excluded.  At Week 52 the HbA1c 
+endpoint was missing for 9%, 6%, 4%, and 9% of patients randomized to MOUNJARO  5 mg, 10  mg, 15  mg, and insulin 
+glargine, respectively. During the trial, rescue medication (additional antihyperg lycemic medication) was initiated by 0%, 0%, 
+1%, and 1% of patients randomized to MOUNJARO  5 mg, 10  mg, 15  mg, and insulin glargine, respectively. Missing Week 52 
+data were imputed using multiple imputation with retrieved dropout.  
+b Least -squares mean from ANCOVA adjusted for baseline value and other stratification factors.  
+c p<0.001 for superiority vs. insulin glargine, controlled  for multiplicity.  
+ 
+ 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 29 of 61 
+  
+Figure 4: Mean HbA1c (%) Over Time - Baseline to Week 52  
+ 
+Combination with basal insulin with or without metformin  (SURPASS -5) 
+SURPASS -5 was a 40 -week double -blind trial that randomized 475 patients with type  2 diabetes mellitus with 
+inadequate glycemic control on insulin glargine 100  units/mL, with or without metformin, to MOUNJARO  5 mg, 
+10 mg, 15  mg once weekly, or placebo. The dose of background insulin glargine was adjusted using a treat -to-
+target algorithm based on self -measured fasting blood glucose values, targeting < 5.6 mmol/mol . 
+Patients had a mean age of 61 years and 56% were men. The mean duration of type  2 diabetes mellitus was 
+13.3 years and the mean BMI was 33  kg/m2. Overall, 80% were White, 1% were Black or African American, 
+and 18% were Asian; 5% identified as Hispanic or Latino ethnicity.  
+The mean starting dose of insulin glargine was 34, 32, 35, and 33 units/day for patients receiving MOUNJARO  
+5 mg, 10  mg, 15  mg, and placebo, respectively. At randomization, the initial insulin glargine dose in patients 
+with HbA1c ≤8.0% was reduced by 20%. At week 40, mean dose of insulin glargine was 38, 36, 29, and 
+59 units/day for patients receiving MOUNJARO  5 mg, 10  mg, 15  mg, and placebo, respectively.  
+Treatment with MOUNJARO  5 mg, 10  mg and 15  mg once weekly for 40 weeks resulted in a statistically 
+significant reduction in HbA1c compared with placebo ( see Table  13). 
+ 
+
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 30 of 61 
+ Table 13: Results at Week 40 in a Trial of MOUNJARO  with Basal Insulin in Adult Patients with Type  2 
+Diabetes Mellitus with or without Metformin  
+ MOUNJARO  
+5 mg MOUNJARO  
+10 mg MOUNJARO  
+15 mg Placebo  
+Modified Intent -to-Treat (mITT) 
+Population (N)a 116 118 118 119 
+Primary Endpoint  
+HbA1c (%)  
+Baseline (mean)  8.3 8.4 8.2 8.4 
+Change at Week 40b -2.1 -2.4 -2.3 -0.9 
+Difference from placebob (95% CI)  -1.2 
+(-1.5, -1.0) -1.5 
+(-1.8, -1.3) -1.5 
+(-1.7, -1.2) -- 
+p-valuec <0.001  <0.001  <0.001  -- 
+Key Secondary Endpoints  
+Patients (%) achieving HbA1c <7%  87c 90c 85c 35 
+Patients (%) achieving HbA1c <5.7%  24 42c 50c 3 
+Fasting Serum Glucose  (mmol/L)  
+Baseline (mean)  9.0 9.0 8.9 9.1 
+Change at Week 40b -3.2 -3.6 -3.5 -2.2 
+Difference from placebob (95% CI)  -1.1c 
+(-1.5, -0.6) -1.4c 
+(-1.8, -1.0) -1.3c 
+(-1.7, -0.9) -- 
+Body Weight (kg)  
+Baseline (mean)  95.8 94.6 96.0 94.2 
+Change from baselineb  -5.4 -7.5 -8.8 1.6 
+Difference from placebob (95% CI)  -7.1c 
+(-8.7, -5.4) -9.1c 
+(-10.7, -7.5) -10.5c 
+(-12.1, -8.8) -- 
+a The modified intent -to-treat population consists of all randomly assigned participants who were exposed to at least 1 dose of 
+study drug. Patients who discontinued study treatment due to inadvertent enrollment were excluded. At Week 40 the HbA1c 
+endpoint was missing for 6%, 3%, 7%, and 2% of patients randomized to MOUNJARO  5 mg, 10  mg, 15  mg, and placebo, 
+respectively. During the trial, rescue medication (additional antihyperg lycemic medication) was initiated by 1%, 0%, 1%, and 
+4% of patients randomized to MOUNJARO  5 mg, 10  mg, 15  mg, and placebo, respectively. Missing Week 40 data were 
+imputed using placebo multiple imputation.  
+b Least -squares mean from ANCOVA adjusted for baseline value and other stratification factors.  
+c p<0.001 for superiority vs. placebo, controlled  for multiplicity.  
+14.2 Comparative Bioavailability Studies   
+A randomized, multicenter, open -label, two-way, single -dose , crossover comparative bioavailability study of 
+MOUNJARO KwikPen  (tirzepatide solution in a  multi -dose prefilled pen ) and MOUNJARO (tirzepatide injection 
+in a single -dose prefilled pen) , administered as 0.6 mL x 5 mg/0.6 mL for MOUNJARO KwikPen and as 0.5 mL 
+x 5 mg/0.5 mL for MOUNJARO subcu taneous injection, was conducted in healthy , adult, female and male 
+participants  . Comparative bioavail ability data from 62 subjects that were  included in the statistical analysis are 
+presented in the following  table : 
+ 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 31 of 61 
+ Table 14 : Summary Table of the Comparative Bioavail ability Data  
+Tirzepatide  
+(1 x 5 mg) 
+ 
+Geometric Mean  (CV%)  
+ 
+Parameter  Test1 Reference2 % Ratio of  
+Geometric 
+Means  90% Confidence 
+Interval  
+AUC T3 
+(ng·h/mL)  118000  
+(22%)  125000  
+(23%)  94.3 92.6-96.0 
+AUC I 
+(ng·h/mL)  119000  
+(22%)  127000  
+(22%)  94.8 93.1-96.5 
+Cmax 
+(ng/mL ) 524 
+(27%)  649 
+(31%)  80.8 78.0-83.8 
+Tmax4 
+(h) 36.0 
+(8.00 -144) 12.0 
+(7.97 -168)   
+T1/25 
+(h) 126 
+(81.5 -186) 122 
+(39.0 -178)   
+1 MOUNJARO® KwikPen® (tirzepatide injection in a multi -dose prefilled pen) Solution, 5  mg/0.6  mL (Eli Lilly Canada Inc.)  
+2 MOUNJARO® (tirzepatide injection in a single -dose prefilled pen) Solution, 5  mg/0.5  mL (Eli Lilly Canada Inc.)  
+3 AUC T= area under the concentration versus time curve from time to t, where t is the last time point with a measurable 
+concentration  
+4 Expressed as the median (range) only  
+5 Expressed as the geometric mean ( range ) 
+15 MICROBIOLOGY   
+No microbiological information is required for this drug product.  
+16 NON -CLINICAL TOXICOLOGY   
+General Toxicology : Tirzepatide was administered twice weekly  by subcutaneous injection to rats and 
+cynomolgus monkeys , at doses up to  3 mg/kg  (1.96x human exposure  based on AUC ) and 0.5  mg/kg  (1.35x 
+human exposure  based on AUC ), respectively. Primary findings were consistent with the activity of incretins , 
+including GLP -1R agonists, and included  significantly  decreased food consumption an d body weight loss.  
+Carcinogenicity : A 2-year carcinogenicity study  (lifetime exposure)  was conducted with tirzepatide in male 
+and female rats , administered twice weekly by subcutaneous injection, at doses of 0.15, 0.5, and 1.5  mg/kg 
+(0.1-, 0.4-, and 1 -fold the maximum recommended human dose ( MRHD ) of 15  mg once weekly based on 
+AUC). Tirzepatide caused an increase in thyroid C -cell tumors (adenomas and carcinomas  combined ) in both 
+sexes at all dose levels.  
+In a 6 -month carcinogenicity study in rasH2 transgenic mice, tirzepatide at doses of 1, 3, and 10  mg/kg 
+administered twice weekly by subcutaneous injection was not tumorigenic . 
+Genotoxicity : Tirzepatide was not genotoxic in a rat bone marrow micronucleus assay  at single SC -
+administered doses up to 3  mg/kg.  
+Reproductive and Developmental Toxicology : In fertility and early embryonic development studies, male 
+and female rats were administered tirzepatide twice weekly  by subcutaneous injection at doses of 0.5, 1.5, or 
+3 mg/kg (0.3 -, 1-, and 2-fold and 0. 3-, 0.9-, and 2-fold, respectively, the MRHD of 15  mg once weekly based on 
+AUC). No effects of tirzepatide were observed on sperm morphology, mating, fertility, and conception. 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 32 of 61 
+ However,  in female rats, an increase in the number of females with prolonged diestrus and a decrease in the 
+mean number of corpora lutea resulting in a decrease in the mean number of implantation sites and viable 
+embryos was observed at all dose levels. These effect s were considered secondary to the pharmacological 
+effects of tirzepatide on food consumption and body weight.  
+Pregnant rats  were  given twice weekly subcutaneous doses of 0.02, 0.1, and 0.5  mg/kg tirzepatide (0.03 -, 0.1-, 
+and 0.5 -fold the MRHD of 15  mg once weekly based on AUC) during organogenesis . Increased  incidences of 
+external, visceral, and skeletal malformations, increased incidences of visceral and skeletal developmental 
+variations, and reduced  fetal weights were observed, in addition to decreases  in maternal body weights and 
+food consumption , at 0.5  mg/kg.  
+Pregnant rabbits  were  given tirzepatide once weekly subcutaneous doses of 0.01, 0.03, or 0.1  mg/kg (0.01 -, 
+0.1-, and 0.23 -fold the MRHD) during organogenesis . Adverse effects on the gastrointestinal system resulting 
+in maternal mortality or abortion in a few rabbits were observed  at all dose levels. Reduced fetal weights , 
+decreased maternal food consumption and  decreased maternal  body weights were observed at 0.1  mg/kg.  
+In a prenatal -postnatal study in F 0 maternal rats administered tirzepatide twice weekly by  subcutaneous  
+injection at  doses of 0.02, 0.10, or 0.25  mg/kg from implantation through lactation, F 1 pups from F 0 maternal 
+rats given 0.25  mg/kg tirzepatide had lower mean body weight from birth through the end of the study  for males 
+and postnatal day 56 for females.  
+Juvenile Toxicity : Consistent with adult rats, in a juvenile toxicity study in rats, effects were limited to 
+pharmacological effects  of tirzepatide  on body weight and food consumption and other reversible effects 
+secondary to tirzepatide  pharmacology. Tirzepatide led to a delay in sexual maturity in male and female rats, 
+which was attributed to the reduced body weight gain during treatment. These data indicate that tirzepatide 
+does not have specific  toxicities in juvenile animals.  
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 33 of 61 
+  
+PATIENT MEDICATION INFORMATION   
+READ THIS FOR SAFE AND EFFECTIVE USE OF YOUR MEDICINE  
+PrMOUNJARO® 
+PrMOUNJARO® KwikPen®  
+tirzepatide injection  
+ 
+ 
+The information below applies to MOUNJARO and MOUNJARO KwikPen unless otherwise indicated.  
+Read this carefully before you start taking MOUNJARO  and each time you get a refill. This leaflet is a summary 
+and will not tell you everything about this drug . Talk to your healthcare professional  about your medical 
+condition and treatment and ask if there is any new information about MOUNJARO . 
+ 
+Serious Warnings and Precautions  
+ Tirzepatide , the medicinal ingredient in MOUNJARO,  increased the risk of 
+developing thyroid C -cell tumors in rats. It is not known if the risk seen in rats applies 
+to humans . It is uncertain if  MOUNJARO  may increase your risk for developing 
+thyroid C -cell tumors, including medullary thyroid carcinoma.  
+ 
+ Do not use MOUNJARO  if you: 
+▪ have a personal or family history of Medullary Thyroid Cancer (MTC);  
+▪ have Multiple Endocrine Neoplasia syndrome type 2 (MEN 2).  
+ 
+ Your healthcare professional will speak to you about the risk and symptoms of 
+thyroid tumors.  
+ 
+What is MOUNJARO  used for ? 
+MOUNJARO  is used along with diet and exercise to : 
+ improve blood sugar levels in adults with type 2 diabetes.  
+MOUNJARO  is used:  
+▪ alone, if you cannot take metformin;  
+▪ with metformin;  
+▪ with metformin and a sulfonylurea;  
+▪ with metformin and a sodium -glucose cotransporter 2 inhibitor  (SGLT2i) ; 
+▪ with basal insulin (with or without metformin) . 
+How does MOUNJARO  work?  
+MOUNJARO  belongs to a class of medicines called GIP and GLP-1 receptor agonists . MOUNJARO  lowers 
+your blood sugar by helping your body release more insulin when your blood sugar is high.  It also reduces 
+levels of glucagon, a hormone that prevents blood sugar from decreasing too much.  
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 34 of 61 
+ What are the ingredients in MOUNJARO ? 
+Medicinal ingredients: tirzepatide  
+Non-medicinal ingredients:  
+MOUNJARO  single -dose pen and single -dose vial  (preservative -free): 
+Hydrochloric acid  solution,  sodium chloride , sodium hydroxide  solution, sodium phosphate dibasic 
+heptahydrate , water for injection . 
+MOUNJARO KwikPen  multi -dose pen  (includes preservatives) : 
+Benzyl alcohol  (preservative) , glycerin, hydrochloric acid solution, phenol  (preservative) , sodium chloride, 
+sodium hydroxide solution, sodium phosphate dibasic heptahydrate, water for injection   
+MOUNJARO  comes in the following dosage forms:  
+MOUNJARO  – solution in  a single -dose  prefilled pen  or vial: 2.5 mg/0.5  mL, 5 mg/0.5  mL, 7.5 mg/0.5  mL, 
+10 mg/0.5  mL, 12.5  mg/0.5  mL, and 15 mg/0.5  mL. 
+MOUNJARO  KwikPen  – solution in a multi -dose prefilled pen containing  4 fixed -doses : 2.5 mg/0.6 mL, 
+5 mg/0. 6 mL, 7.5 mg/0. 6 mL, 10 mg/0. 6 mL, 12.5 mg/0. 6 mL, and 15 mg/0. 6 mL. 
+Do not use MOUNJARO  if: 
+ you are allergic to tirzepatide  or to any ingredient in MOUNJARO  or component of its container.  This 
+includes benzyl alcohol, which is used as a preservative in MOUNJARO KwikPen . 
+ you or a member of your family has ever had Medullary Thyroid Cancer  (MTC ). 
+ you have Multiple Endocrine Neoplasia syndrome type  2 (MEN  2).  
+ you are pregnant or breast -feeding.  
+To help avoid side effects and ensure proper use, talk to your healthcare professional before you take 
+MOUNJARO . Talk about any health conditions or problems you may have, including if you  have : 
+ type 1 diabetes.  
+ a heart condition that causes an increase in heart rate . 
+ experienced severe allergic reactions and swelling when taking GLP -1 receptor agonist medicines.  
+ ever had diabetic ketoacidosis (increased ketones in the blood or urine).  
+ severe problems with your stomach (gastroparesis) or food digestion. MOUNJARO  slows stomach 
+emptying so food passes more slowly through your stomach.  
+ very low food intake or inadequate nutrition (including low vitamins and minerals ). 
+ ever had depression or other mental health problems.  
+Other warnings you should know about:  
+Gallbladder Disease  
+ You may suddenly develop  symptoms of gallbladder disease when taking MOUNJARO.  
+ Gallbladder disease  can include inflammation of the gallbla dder (cholecystitis), or gallstones blocking the 
+bile duct (biliary colic) . 
+Symptoms may include sudden and intensifying pain in your abdomen, between your shoulder blades or 
+your right shoulder. You should seek immediate medical attention if you experience severe abdominal pain, 
+yellowing of your skin, or high fever with chills.  If you think you might have a problem with your gallbladder, 
+consult your healthcare professional.  
+Benzyl alcohol  
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 35 of 61 
+  Benzyl alcohol is a preservative  used  in MOUNJARO KwikPen . Benzyl alcohol can cause you to 
+develop metabolic acidosis (acid in the blood). Metabolic acidosis can develop  when  large amounts of 
+benzyl alcohol build -ups in your body . Talk to your healthcare professional if you :  
+o are taking other medications containing  benzyl alcohol . 
+o have liver or kidney problems . 
+Children and adolescents  
+ MOUNJARO  is not recommended in children and adolescents under 18 years . 
+Pregnancy and breast -feeding  
+ Tell you r healthcare professional if you are pregnant, planning  to become  pregnant or think you are 
+pregnant . There are specific risks you should discuss with your healthcare professional.  
+ You should not take MOUNJARO  if you are pregnant. It may harm your unborn baby.  
+ If you are able to become pregnant:  
+▪ Avoid becoming pregnant while you are taking MOUNJARO . Use effect ive birth control during 
+treatment and at least one month  after your last dose. If you are using oral hormonal drugs as a birth 
+control method:  
+▪ switch  to a non -oral hormonal birth control medicine , or 
+▪ add a barrier method of birth control (e.g. , condoms). Use this method for 4 weeks when begin ning 
+treatment with MOUNJARO  and for 4 weeks after each time your dose is increased.  
+ Do not breastfeed while you are taking MOUNJARO . 
+Driving and using machines  
+ Low blood sugar (hypoglycemia) may affect your ability to concentrate. Avoid driving or using machines if 
+you get any signs of low blood sugar.  
+ See “What are possible side effects from using MOUNJARO ” for the warning signs of low blood sugar. Talk 
+to your healthcare professional  for further information.  
+Pancreas problems  
+ Taking MOUNJARO  can cause an inflamed pancreas ( acute pancreatitis ). 
+ Speak to your healthcare professional if you have or have had pancreas problems such as inflammation of 
+the pancreas.  
+ Your  healthcare professional will monitor you for any symptoms of acute pancreatitis. Speak to your 
+healthcare professional immediately if you have severe and on -going pain in the stomach area. See “What 
+are possible side effects from using MOUNJARO ” for more symptoms of acute pancreatitis.  
+Serious allergic reactions  
+ Stop using MOUNJARO and get medical help right away if you have any symptoms of a serious allergic 
+reaction . This can  includ e itching, rash, or difficulty breathing.  See “What are possible side effects from 
+using MOUNJARO” for more symptoms of an allergic reaction.  
+Blood tests  
+ Your blood sugar levels should be monitored at the start of treatment if you are taking MOUNJARO  with 
+anti-diabetic medicines known  as sulfonylurea or insulin. Monitoring y our blood sugar levels will help 
+reduce the risk of developing hypoglycemia (low blood sugar).  
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 36 of 61 
+  Your healthcare  professional will monitor your blood sugar levels periodically during your treatment with 
+MOUNJARO . 
+Kidney problems  
+ During treatment with MOUNJARO , you may experience feeling sick (nausea) or being sick (vomiting), 
+and diarrhea. These side effects can cause dehydration (loss of fluids). Dehydration can lead to 
+problems with your kidneys, such as sudden kidn ey failure.  
+ It is therefore important to drink plenty of fluids to prevent dehydration.  
+ Talk to your healthcare professional  if you have any questions or concerns.  
+Diabetic eye disease (retinopathy)  
+ Fast improvements in blood sugar control may lead to a temporary worsening of diabetic eye disease. 
+This may require treatment or lead to a loss of vision.  
+ You should inform your healthcare professional  if you have diabetic eye disease (retinopathy) or if you 
+experience vision  problems during treatment with MOUNJARO . 
+Gastrointestinal (stomach and intestine) problems  
+ Stomach  problems, sometimes severe, have been reported in people who use MOUNJARO. Tell your 
+healthcare professional if you have stomach problems that are severe or will not go away.  
+Malnutrition  
+ Nutrition problems, sometimes severe  or serious , have been reported in people who use MOUNJARO. 
+This can cause  you to have low vitamin, mineral, and/or protein levels and low body weight . 
+ While you are using MOUNJARO, your healthcare professional may give you guidance on nutrition 
+and/or recommend you take vitamins or supplements.  
+Food or liquid getting into lungs during anesthesia  
+ Some patients taking medicines like MOUNJARO have had problems with food or liquid from their 
+stomach getting into their lungs while under general anesthesia or deep sedation.  
+ Tell your healthcare professional  that you are taking MOUNJARO before you have a procedure that 
+requires general anesthesia or deep sedation.  
+Depression or thoughts of suicide  
+ You should pay attention to any changes in your mood, behaviours , feelings, or thoughts. Call your 
+healthcare professional  right away if you have any : 
+▪ thoughts or behaviours  of harming or killing yourself, or  
+▪ changes to your mental health that are new, worse, or worry you.  
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 37 of 61 
+ Tell your healthcare professional about all the medicines you take, including any drugs , vitamins, 
+minerals, natural supplements or alternative medicines.  
+The following may interact with MOUNJARO : 
+ oral birth control medicines . 
+ anti-diabetic medicines known as a sulfonylurea (e.g., glyburide, gliclazide, glimepiride) or insulin. 
+Combining these medicines with MOUNJARO  might increase the risk of getting low blood sugar. Your 
+healthcare professional may tell you to lower your regular dose of these drugs when adding 
+MOUNJARO  treatment.  
+ medicines that may increase your heart rate.  
+other incretin medicines . The use of MOUNJARO in combination with other GLP-1 receptor agonists or 
+with DPP-4 inhibitors  has not been studied and MOUNJARO should not be used in combination with 
+those drugs.  
+How to take MOUNJARO : 
+ Take MOUNJARO  exactly as your healthcare professional  has prescribed.  Do not change your dose or 
+stop taking  MOUNJARO without talking to your healthcare professional.  
+ Set a reminder on a calendar to remind yourself of your weekly dose.  
+ The pen , KwikPen  and vial  have glass parts. Handle carefully. If you drop the pen , KwikPen  or vial on a 
+hard surface, do not use it. Use a new pen , KwikPen  or vial for your injection.  
+ An Instructions for Use leaflet is enclosed with the MOUNJARO  (single -dose prefilled pen, or single -dose  
+vial) and MOUNJARO KwikPen  (multi -dose prefilled  pen). The Instructions for Use leaflet provides  
+instructions on how to use the prefilled  pen, multi -use prefilled pen  or vial . Read the Instructions for Use 
+leaflet before you take MOUNJARO or MOUNJARO KwikPen . 
+ Talk to your healthcare professional  about how to correctly administer MOUNJARO  before you use it for 
+the first time. If you do not understand the instructions or have any questions, talk with your doctor, 
+diabetes nurse, or pharmacist.  
+ You can give yourself the injection at any time of the day, with or without food.  
+ You will be using the following number of pens , vials or KwikPens during a month ’s treatment : 
+o 4 different pens or vials if you are using MOUNJARO single -dose prefilled pen, or single -dose vial. 
+o 1 pen if you are using multi -dose prefilled MOUNJARO KwikPen . 
+How to inject MOUNJARO : 
+ MOUNJARO  is an injection which is given under the skin (subcutaneously).  Do not inject MOUNJARO  into 
+a vein or muscle.  
+ The best places to give yourself the injection are your stomach area (abdomen)  or upper leg (thigh) . 
+Another person should give you the injection in the back of  your upper arm.  
+ Do not use the same site for each injection. Change (rotate) your injection site with each weekly injection.  
+Your dose of MOUNJARO  may change depending on:  
+ if you are taking other diabetic medication  
+ your physical health (e.g. , weight, illness, physical activity)  
+ your diet  
+Changing the day of your weekly injection : 
+ If necessary , you can change the day of your weekly injection . There has to be at least 3 days since your 
+last injection of MOUNJARO . 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 38 of 61 
+ If you give yourself insulin in addition to MOUNJARO : 
+ Never mix both medications (Insulin and MOUNJARO)  in the same container. Give yourself separate 
+injections of insulin and MOUNJARO . 
+ You may give both injections in the same body area (for example, your stomach area), but not right next to 
+each other.  
+Usual adult dose:  
+ The recommended starting dose of MOUNJARO is 2.5 mg administered subcutaneously (under the skin ) 
+once weekly. After 4 weeks your dose will go up to 5  mg once weekly. If needed, the dose may be 
+increased by 2.5  mg after at least 4 weeks on your current dose . The maximum recommended dose is 
+15 mg once  weekly.  
+ If your healthcare professional increases your dose, a new  MOUNJARO (pen, vial  or KwikPen) for the 
+different dose should be used.  
+Overdose:  
+If you think you, or a person you are caring for, have taken too much MOUNJARO , contact a 
+healthcare professional, hospital emergency department, or regional poison control centre 
+immediately, even if there are no symptoms.  
+ 
+Missed dose: 
+If you miss a dose and:  
+ it has been  4 days  (96 hours)  or less since you should have used MOUNJARO , use it as soon as you 
+remember. Then inject your next dose on your usual scheduled day.  
+ it has been  more than 4 days (96 hours)  since you should have used MOUNJARO , skip the missed dose. 
+Then inject your next dose on your usual scheduled day . 
+What are possible side effects from using MOUNJARO ? 
+These are not all the possible side effects you may have  when taking MOUNJARO . If you experience any side 
+effects including side effects not listed here, tell your healthcare professional . 
+ Belching  
+ Bloating of the stomach  
+ Change  in taste  
+ Constipation  
+ Decreased appetite  
+ Diarrhea  
+ Feeling tired  
+ Gas (flatulence)  
+ Increased heart rate  
+ Indigestion  
+ Injection site reactions – such as bruising, pain, irritation, itching, and rash  
+ Nausea  
+ Reflux or heart burn  – also called gastro -esophageal reflux disease  
+ Stomach pain  
+ Unusual skin sensations - such as burning, tingling or pricking  
+ Vomiting  
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 39 of 61 
+  Weight loss  
+ 
+Serious  side effects and what to do about them  
+Symptom / effect  Talk to your healthcare 
+professional  Stop taking drug 
+and get 
+immediate 
+medical help  Only if severe  In all cases  
+COMMON        
+Diabetic retinopathy  (Diabetic 
+eye disease): blurred vision, 
+lines in vision     ✓   
+UNCOMMON        
+Hypoglycemia  (severe low 
+blood sugar): disorientation, 
+loss of consciousness, or 
+seizure     ✓   
+RARE        
+Pancreatitis:  prolonged severe 
+abdominal pain with or without 
+vomiting    ✓   ✓ 
+Dehydration that can cause 
+sudden kidney failure:  dark 
+yellow and strong -smelling pee, 
+feeling extremely thirsty, feeling 
+dizzy or lightheaded   ✓ ✓ 
+Sudden gallbladder 
+problems:  severe abdominal 
+pain, yellowing of your skin, or 
+high fever with chills   ✓ ✓ 
+UNKNO WN        
+Serious allergic reaction 
+(anaphylactic reaction, 
+angioedema):  breathing 
+problems, swelling of the throat 
+and face, fast heartbeat   ✓ ✓ 
+Malnutrition  (lack of proper 
+nutrition) : low vitamin, mineral, 
+and/or protein levels, low body 
+weight   ✓  
+Gastroparesis  (slow stomach 
+emptying) : pain, severe nausea 
+and vomiting, prolonged 
+belching, and prolonged 
+bloating   ✓ ✓ 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 40 of 61 
+ Ileus (slow movement of food 
+through intestines) : inability to 
+tolerate an oral diet, abdominal 
+bloating and pain, severe 
+nausea and vomiting   ✓ ✓ 
+ 
+If you have a troublesome symptom or side effect , including symptoms or side effects  that are not listed here , 
+or a side effect  becomes bad enough to interfere with  your daily activities, tell your healthcare professional . 
+ 
+Reporting Side Effects  
+You can report any suspected side effects associated with the use of health products to 
+Health Canada by:  
+ Visiting the Web page on  Adverse Reaction Reporting  
+(https://www.canada.ca/en/health -canada/services/drugs -health -products/medeffect -
+canada.html ) for information on how to report online, by mail or by fax; or  
+ Calling toll -free at 1 -866-234-2345.  
+NOTE: Contact your health professional  if you need information about how to manage your 
+side effects.  The Canada Vigilance Program does not provide medical advice.  
+ 
+Storage:  
+MOUNJARO  single -dose prefilled pen and single -dose vial:  
+ Store MOUNJARO  in a refrigerator at 2°C to 8°C.  
+ If needed, each single -dose prefilled  pen or single -dose vial  can be stored at room temperature below 30°C 
+for up to a total of 21 days . 
+ Do not freeze MOUNJARO . Do not use MOUNJARO  if frozen.  If the pen or vial has been frozen, throw it 
+away and use a new pen or vial . 
+ Store MOUNJARO  in the original carton to protect from light.  
+ Keep out of reach and sight of children.  
+ The single -dose prefilled pen must be discarded after use in a puncture -resistant container.  
+ Throw away all opened vials after use, even if there is medicine left in the vial.  
+MOUNJARO KwikPen  multi -dose  prefilled  pen: 
+ Store MOUNJARO KwikPen  in a refrigerator at 2°C to 8°C up to the expiration date. Do not use 
+MOUNJARO KwikPen  beyond the expiration date.  
+ Do not freeze MOUNJARO  KwikPen . Do not use MOUNJARO KwikPen  if frozen.  
+ Protect MOUNJARO KwikPen  from light.  
+ If needed, each multi -dose prefilled pen can be stored unrefrigerated at temperatures not to exceed 30°C 
+for up to 30  days.  
+ The MOUNJARO  KwikPen  must be discarded after  four weekly doses  of tirzepatide  in a puncture -resistant 
+container  or in accordance with local requirements . 
+ Keep out of reach and sight of children.  
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 41 of 61 
+ If you want more information about MOUNJARO : 
+ Talk to your healthcare professional . 
+ Find the full product monograph that is prepared for healthcare professionals and includes this Patient 
+Medication Information by visiting the Health Canada website : (https://www.canada.ca/en/health -
+canada/services/drugs -health -products/drug -products/drug -product -database.html ; the manufacturer’s 
+website  www.lilly.ca, or by calling 1 -888-545-5972 . 
+MOUNJARO® and MOUN JARO® KwikPen® are registered  trademark s owned by or licensed to Eli Lilly and 
+Company, its subsidiaries , or affiliates.  
+This leaflet was prepared by Eli Lilly Canada , Inc. 
+Last Revised SEP 24, 2024  
+MOU -0005-PM-20240924  
+ 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 42 of 61 
+  
+ INSTRUCTIONS FOR USE  
+MOUNJARO® 
+tirzepatide  injection  
+Prefilled pen for subcutaneous use  
+ 
+ 
+ 
+2.5 mg/0.5  mL single -dose pen  
+5 mg/0.5  mL single -dose pen  
+7.5 mg/0.5  mL single -dose pen  
+10 mg/0.5  mL single -dose pen  
+12.5 mg/0.5  mL single -dose pen  
+15 mg/0.5  mL single -dose pen  
+Once -weekly   
+ 
+Important information you need to know before injecting MOUNJARO  
+Read this “INSTRUCTIONS FOR USE ” and the Patient Medication  Information before using your 
+MOUNJARO  single -dose pen  and each time you get  a new pen . There may be new information. This 
+information does not take the place of talking to your healthcare provider about your medical condition or 
+treatment.  
+Talk to  your healthcare provider  about how to inject MOUNJARO  the right way.  
+• MOUNJARO  is a single -dose prefilled pen.  
+• One MOUNJARO  single -dose prefilled pen  is used 1 time each week.  
+• Inject under the skin (subcutaneously) only.  
+• You or another person can inject into your stomach (abdomen) or thigh.  
+• Another  person should give you  the injection in  the back of  your upper arm.  
+
+ 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 43 of 61 
+ Guide to parts  of MOUNJARO single -dose prefilled p en 
+ 
+Preparing to inject MOUNJARO  
+Remove  the Pen from the refrigerator.  
+Leave the gray base cap on until you are ready to inject.  
+Check  the Pen label to 
+make sure you have the 
+right medicine and dose, 
+and that it has not 
+expired.  
+ 
+Inspect  the Pen to make 
+sure that it is not 
+damaged.   
+ 
+Make sure the medicine  in the pen  is colourless  to slightly yellow . 
+ 
+Do not use the medicine if it is: frozen, cloudy, or has particles.  
+ 
+Wash  your hands.  
+ 
+Expiration 
+Date  
+Purple  
+Injection Button  
+Lock Ring  
+Indicator  
+Lock  or Unlock  
+Medicine  
+Clear Base  
+Gray Base Cap  
+Bottom  and 
+Needle End  
+Top 
+ 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 44 of 61 
+ Choose your injection site  
+Your healthcare provider can help you choose the injection site that is best for you.  Change (rotate) your 
+injection site each week. You may use the same area of your body but be sure to choose a different injection 
+site in that area.  
+ You or another person can inject the medicine in your stomach (abdomen) or thigh , 
+ OR 
+ Another person should give you the injection in the back of your upper arm.  
+ 
+Step 
+1 Pull off the gray base cap  
+ Make sure the Pen is Locked . 
+Do not  unlock the Pen until you place the clear base on your skin and are 
+ready to inject.  
+ 
+ 
+Pull the gray base cap straight off and throw it away in your household 
+trash.  
+Do not put the gray base cap back on – this could damage the needle.  
+Do not  touch the needle.  
+ 
+Clear Base  
+Gray 
+Base 
+Cap 
+ 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 45 of 61 
+ Step 
+2 Place Clear Base on skin, then Unlock  
+ Place  the clear  base  flat against your skin at the  injection  site. The Purple button 
+should be away from the skin.  
+ Unlock  by turning  the lock ring toward the unlock icon . 
+ 
+Step 
+3 Press and Hold up to 10 seconds  
+ Press and Hold  the purple injection button.  
+Listen for two loud clicks:  
+• First click = injection started  
+• Second click = injection completed  
+ You will know your injection is complete when the gray plunger is visible.  
+After your injection, place the used Pen in a sharps container.  
+ 
+Disposing of your used Pen  
+• Put your used Pen in a sharps disposal container right away 
+after use. Do not throw away (dispose of) Pens in your 
+household trash.  
+• If you do not have a sharps disposal container, you may use a 
+household container that is:  
+- made of a heavy -duty plastic,  
+- can be closed with a tight -fitting, puncture -resistant lid, 
+without sharps being able to come out,  
+- upright and stable during use,   
+Gray 
+Plunger  
+ 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 46 of 61 
+ - leak-resistant, and  
+- properly labeled to warn of hazardous waste inside the 
+container.  
+• When your sharps disposal container is almost full, you will need to follow your community guidelines for 
+the right way to dispose of your sharps disposal container. There may be local laws about how you should 
+throw away used needles and syringes.  
+• Do not  recycle your used sharps disposal container.  
+• Keep the disposal container out of the sight and reach of children.  
+Storage and handling  
+• Store your Pen in the refrigerator between 2 C to 8C. 
+• You may store your Pen at room temperature below 30 C for up to a total of 21 days.  
+• Do not  freeze your Pen. If the Pen has been frozen, throw the Pen away and use a new Pen.  
+• Store your Pen in the original carton to protect your Pen from light.  
+• The Pen has glass parts. Handle it carefully. If you drop the Pen on a hard surface, do not  use it. Use a 
+new Pen for your injection.  
+• Keep your MOUNJARO  single -dose prefilled p en and all medicines out of the sight and reach of children.  
+Commonly asked questions  
+What if I see air bubbles in my Pen?  
+Air bubbles are normal.  
+What if my Pen is not at room temperature?  
+It is not necessary to warm the Pen to room temperature.  
+What if I unlock the Pen and press the purple injection button before pulling off the gray base cap?  
+Do not  remove the gray base cap. Throw away the Pen and get a new Pen.  
+What if there is a drop of liquid on the tip of the needle when I remove the gray base cap?  
+A drop of liquid on the tip of the needle is normal. Do not  touch the needle.  
+Do I need to hold the injection button down until the injection is complete?  
+This is not necessary, but it may help you keep the Pen steady against your skin.  
+I heard more than 2 clicks during my injection  — 2 loud clicks and 1 soft one. Did I get my complete 
+injection?  
+Some people may hear a soft click right before the second loud click. That is the normal operation of the Pen. 
+Do not  remove the Pen from your skin until you hear the second loud click.  
+I am not sure if my Pen worked the right way.  
+ Check to see if you have received your dose. Your dose was delivered the right way if 
+the gray plunger is visible. Also, see Step 3  of the instructions.  
+If you do not see the gray plunger, contact Lilly at 1 -888-545-5972  for further 
+instructions. Until then, store your Pen safely to avoid an accidental needle stick.  
+Gray 
+Plunger  
+ 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 47 of 61 
+ What if there is a drop of liquid or blood on my skin after my injection?  
+This is normal. Press a cotton ball or gauze over the injection site. Do not  rub the injection site.  
+ 
+Other Information  
+• If you have vision problems, do not  use your Pen without help from a person trained to use the 
+MOUNJARO  single -dose prefilled p en. 
+ 
+Where to learn more  
+• If you have questions or problems with your MOUNJARO  single -dose prefilled p en, contact Lilly at 
+1-888-545-5972  or call your healthcare provider.  
+• For more information about MOUNJARO , visit our website at www. lilly.ca. 
+ 
+Manufactured by : 
+Eli Lilly Canada Inc.  
+P.O. Box 73  
+Toronto, Ontario  
+M5X 1B1  
+ 
+MOUNJARO® is a registered trademark owned by or licensed to  Eli Lilly and Company , its subsidiaries or 
+affiliates . 
+Copyright © 2022 , 2024  Eli Lilly and Company. All rights reserved.  
+Revision  Date: SEP 24, 2024  
+ 
+MOU -0004-IFU-202409 24 
+ 
+48 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 48 of 61 
+ INSTRUCTIONS FOR USE  
+PrMOUNJARO® 
+tirzepatide  injection  
+single -dose vial  for subcutaneous use  
+ 
+2.5 mg/0.5 mL single -dose vial  
+5 mg/0.5 mL single -dose vial  
+7.5 mg/0.5 mL single -dose vial  
+10 mg/0.5 mL single -dose vial  
+12.5 mg/0.5 mL single -dose vial  
+15 mg/0.5 mL single -dose vial  
+ 
+Important information you need to know before injecting MOUNJARO  
+Read this “INSTRUCTIONS FOR USE ” and the Patient Medication Information  before you start using 
+MOUNJARO  single -dose vial  and each time you get  a new vial . There may be new information. This 
+information does not take the place of talking to your healthcare provider about your medical condition or your 
+treatment.  
+Talk to your healthcare provider about how to inject MOUNJARO the right way.  
+• MOUNJARO is a single -dose  vial. 
+• One MOUNJARO  single -dose vial  is used 1 time each week.  
+• Inject under the skin (subcutaneously) only.  
+• You or another person may inject into your stomach (abdomen) or thigh.  
+• Another person can inject into the back of your upper arm. 
+Before using M OUNJARO , gather the following  supplies needed to give your injection : 
+• 1 MOUNJARO single -dose vial 
+• 1 syringe and 1 needle  (as recommended by your healthcare provider) .  
+• Do not reuse needles and syringes. Always use a new syringe and needle for each injection to prevent 
+infections and blocked needles.  
+• Do not share your needles or syringes with other people. You may give other people a serious infection 
+or get a serious infection from them.  
+• 1 alcohol swab  
+• gauze  
+• 1 sharps container for throwing away used needles and syringes. See “Disposing of used needles and 
+syringes”  at the end of these instructions.  
+ 
+ 
+49 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 49 of 61 
+ Vial Syringe  
+ Needle Shield  Needle  Plunger Tip  Plunger  
+ 
+    Syringe Body   
+ 
+The needle and syringe shown are for illustrative purposes only . The needle and syringe recommended by 
+your healthcare provider may look different than the needle and syringe illustrated in this INSTRUCTIONS 
+FOR USE.  
+Preparing to inject MOUNJARO  
+• Remove the vial  from the refrigerator.  
+• Wash your hands with soap and water.  
+• Check the vial label to make sure you have the right medicine and dose, and that it has not expired.  
+• Make sure the medicine  in the vial  is colourless to slightly yellow.  
+• Do not  use the medicine  if it is: frozen , cloudy , or has  particles . 
+ 
+ 
+Step 1:  
+Pull off the plastic protective cap, but do not  remove 
+the rubber stopper.  
+ 
+Step 2:  
+Wipe the rubber  stopper  with an alcohol swab.  
+ 
+Step 3:  
+Remove the outer wrapping from the syringe.  
+ 
+Protective Cap  
+Rubber  
+Stopper  
+(under Cap)  
+50 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 50 of 61 
+ Step 4:  
+Remove the outer wrapping from the needle.  The 
+syringe your healthcare provider  recommended might 
+have a pre -attached needle. If so, go to step 6.  
+ 
+Step 5:   
+Line up the needle with the syringe, and keep it straight 
+as you attach it. Place the needle on top of the syringe 
+and turn or push it on  until it is tight and firmly attached , 
+as instructed by your healthcare provider .  
+Step 6: 
+Remove the needle shield by pulling straight off.  
+Make sure that the needle does not touch any other 
+surfaces.   
+Step 7: 
+A. Hold the syringe with the needle pointing up.  
+B. Pull down on the plunger  until the plunger  tip 
+reaches the line on the syringe indicating that at 
+least 0.5 mL of air has been drawn into the 
+syringe.   
+Step 8: 
+Push the needle through the rubber  stopper  of the vial.  
+ 
+Step 9: 
+Push the plunger  all the way in. This puts air into the 
+vial, making it easier to pull the solution from the vial . 
+ 
+
+51 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 51 of 61 
+ Step 10: 
+A. Turn the vial and syringe upside down .  
+B. Making sure the tip of the needle is in the 
+medicine , slowly pull the plunger  down until the 
+plunger t ip is past the 0.5 mL line. 
+C. If there are air bubbles, tap the syringe gently a 
+few times to let any air bubbles rise to the top.   
+ 
+Step 11: 
+Slowly push the plunger up until the plunger tip reaches 
+the 0.5 mL line. At this point, there should be no air in 
+the syringe.  
+ 
+Step 12: 
+Pull the syringe out of the rubber  stopper  of the vial . 
+Make sure to pull the syringe straight out to avoid 
+bending the needle . 
+Make sure that the needle does not touch any other 
+surfaces.   
+ 
+Injecting  MOUNJARO  
+• Inject exactly as your healthcare provider has shown you.  
+• Change (rotate) your injection site within the area you choose  for each dose . You may use the same area of 
+your body but be sure  to choose a different injection site within that area . Changing the injection site  
+reduce s your risk of developing  the following conditions  at the injection  site: 
+• Getting lipodystrophy (pits in skin or thickened skin) and  
+• localized cutaneous amyloidosis (skin with lumps) . 
+• Do not  inject where the skin has pits, is thickened, or has lumps.  
+• Do not  inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.  
+• Do not mix MOUNJARO with any other medicine.  
+• Do not  inject MOUNJARO in the same injection site used for other medicines.  
+ 
+
+52 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 52 of 61 
+ Step 13: 
+Choose your injection site . Prepare the injection site as 
+directed by your healthcare provider.  MOUNJARO is 
+injected under the skin (subcutaneously) . 
+• You or another person can inject the medicine in 
+your stomach (abdomen)  or thigh . 
+OR 
+• Another person can give you the injection in the 
+back of your upper arm .  
+OR 
+ 
+ 
+Step 14: 
+Insert  the needle into your skin.  
+ 
+Step 1 5: 
+Push down on the plunger to inject your full dose.  
+• The plunger tip should be at the bottom of the 
+syringe.  
+• The needle should stay in your skin for at least  5 
+seconds to make sure you have injected all of your 
+medicine .  
+Step 1 6: 
+Pull the needle out of your skin.  
+• If you see blood after you take the needle out of 
+your skin, press the injec tion site with a piece of 
+gauze or an alcohol swab . Do not  rub the area.  
+• Do not  recap the needle. Recapping the needle 
+can lead to a needle sti ck injury.   
+ 
+Disposing of your used  vial, needles and syringes  
+• Put your used needle and syringe in a sharps disposal container right away after use. Do no t throw away 
+(dispose of) loose needles and syringes in your household trash.  
+• If you do not have  a sharps disposal container, you may use a household container that is:  
+- made of a heavy -duty plastic,  
+- can be closed with a tight -fitting, puncture -resistant lid, without sharps being able to come out,  
+
+53 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 53 of 61 
+ - upright and stable during use,  
+- leak-resistant, and  
+- properly labeled to warn of hazardous waste inside the container.  
+• When your sharps disposal container is almost full, you will need to follow your community guidelines for the 
+right way to dispose of your sharps disposal container. There may be local laws about how you should 
+throw away used needles and syringes.  
+• Throw away all opened vial s after use, even if there is medicine  left in the vial.  
+• Do not  recycle your used sharps disposal container.  
+Storing and handling  
+• Store all unopened vials  in the refrigerator  at 2°C to 8°C . 
+• You may store the unopened vial at room temperature below  30°C for up to a total of  21 days.  
+• Do not  freeze. Do not  use if MOUNJARO has been frozen.  
+• Store the vial in the original carton to protect from light.  
+Keep your  MOUNJARO  vials, syringes, needles, and all medicines out of the sight  and reach  of 
+children.  
+ 
+Where to learn more  
+• If you have any questions or problems with your MOUNJARO single -dose vial, contact Lilly at 
+1-888-545-5972 or call your healthcare pro vider for help. 
+• For more information about MOUNJARO , visit our website at www.lilly.ca.  
+Manufactured by 
+Eli Lilly Canada Inc.  
+P.O. Box 73  
+Toronto, Ontario  
+M5X 1B1  
+ 
+MOUNJARO® is a registered trademark owned by or licensed to Eli Lilly and Company, its subsidiaries or 
+affiliates.  
+Copyright © 2023 , 2024  Eli Lilly and Company. All rights reserved.  
+Instructions for Use revised : SEP 24, 2024  
+ 
+MON -VL-0003-IFU-20240924  
+ 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 54 of 61 
+ INSTRUCTIONS FOR USE  
+PrMOUNJARO® KwikPen® 
+tirzepatide injection  
+multi -dose prefilled pen for subcutaneous use  
+Each pen contains 4 fixed doses, one dose taken weekly.  
+ 
+2.5 mg/0.6  mL multi -dose  prefilled pen  
+5 mg/0.6  mL multi -dose  prefilled pen  
+7.5 mg/0.6  mL multi -dose  prefilled pen  
+10 mg/0.6  mL multi -dose  prefilled pen  
+12.5 mg/0.6  mL multi -dose  prefilled pen  
+15 mg/0.6  mL multi -dose  prefilled pen  
+ 
+ 
+ 
+Important information you need to know before injecting MOUNJARO KwikPen  
+ 
+Read this  “INSTRUCTIONS FOR USE” and the Patient Medication Information each time you use your  
+MOUNJARO  KwikPen  multi -dose prefilled pen and each time you get a new  KwikPen.  There may be new 
+information. This information does not take the place of talking to your healthcare professional about your 
+medical condition or your treatment.  
+Talk to your healthcare professional about how to inject MOUNJARO KwikPen the right way.  
+ MOUNJARO KwikPen is a multi -dose single -patient -use prefilled pen.  
+ One MOUNJARO KwikPen contains 4 doses of 0.6  mL each. One dose is taken each week.   
+ Inject one dose each week under the skin (subcutaneously) only.  
+ After you have taken the 4th dose  (a month’s treatment ), you will see leftover medicine in the KwikPen . 
+This is normal. The leftover medicine ensures that the KwikPen works correctly. Even though the 
+KwikPen still has medicine in it, do not use it. Throw it away in a sharps disposal container.  The 
+KwikPen will prevent you from dialing a full dose after you have given yourself the 4th dose. You will 
+not be able to turn the knob after you have given yourself the 4th dose.  
+ Do not  transfer the medicine from your KwikPen into a syringe.  
+ Do not  inject the leftover medication.  
+ Do not  share your MOUNJARO KwikPen  with other people, even if the pen needle has been changed. 
+You may give other people a serious infection or get a serious infection from them.  
+ People who are blind or have vision problems should not use the KwikPen without help from a person 
+trained to use the KwikPen.  
+ 
+
+ 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 55 of 61 
+ Guide to parts  
+ 
+Parts of the MOUNJARO KwikPen multi -dose prefilled pen  
+ 
+ 
+Supplies needed to give your injection  
+ 
+ 1 MOUNJARO  KwikPen multi -dose  prefilled 
+pen 
+ 1 pen needle (as recommended by your 
+healthcare professional)   Alcohol swab  
+ Gauze or cotton ball  
+ Sharps disposal container or household 
+container  
+ 
+Preparing to inject MOUNJARO KwikPen  
+ 
+ Step 1:  
+ Wash your hands with soap and water.  
+ Step 2:  
+ Pull the KwikPen cap straight off.  
+ Inspect the KwikPen and label. Do not  use if:  
+– the medication name or dose strength does not match 
+your prescription.  
+– the KwikPen is expired (EXP) or looks damaged.  
+– the medication has been frozen, has particles, is cloudy, 
+or is discolored. Make sure the medicine in the KwikPen 
+is colourless to slightly yellow.  
+Red Inner Seal  
+Cartridge  
+ Pen Cap  
+ Cartridge  
+Holder  
+Pen Body  
+ Dose Indicator  
+Cap Clip 
+ Plunger  
+ Label  
+ Dose 
+Window  
+ 
+Dose  
+Knob  
+Outer 
+Needle  
+Shield  
+Inner 
+Needle 
+Shield  
+Needle  
+Paper Tab  
+Pen Needle Parts  
+(Needles Not Included)  
+ 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 56 of 61 
+  Step 3:  
+ Wipe the red inner seal with an alcohol swab.  
+ Step 4:  
+ Select a new pen needle.  Always use a new pen needle for 
+each injection to help prevent infections and blocked 
+needles.  
+ Pull off the paper tab from the outer needle shield.  
+ Step 5:  
+ Push the capped pen needle straight onto the KwikPen and 
+twist the pen needle on until it is tight.  
+ Step 6:  
+a. Pull off the outer needle shield and keep it. This will be 
+reused.  
+b. Pull off the inner needle shield. Put it in your household 
+trash.  
+a. Outer needle 
+shield  b. Inner needle 
+shield   
+ Step 7:  
+ Slowly turn  the dose knob until you hear 2 clicks and the 
+ extended line shown in the dose window aligns with the 
+dose indicator.  
+This is the prime position . It can be corrected by turning 
+the dose knob in either direction until the prime position is 
+achieved.  
+
+ 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 57 of 61 
+  Step 8:  
+ Hold your KwikPen with the needle pointing up.  
+ Tap the cartridge holder gently to collect air bubbles at the 
+top. 
+ Step 9:  
+ Release some medicine into the air by pushing the dose 
+knob in  until it stops, then slowly count to 5 while 
+holding the dose knob . The  icon must be shown in 
+the dose window. Do not  inject into your body.  
+Priming removes air from the cartridge and makes sure that 
+your KwikPen is working correctly. Your KwikPen has been 
+primed if a small amount of medicine comes out of the tip of 
+the pen needle.  
+– If you do not see medicine at the tip of the needle, 
+repeat steps 7 -9, no more than 2 additional times.  
+– If you still do not see medicine, then change the pen 
+needle and repeat steps 7 -9, no more than 1 additional 
+time.  
+– If you still do not see medicine, contact Lilly at  
+1-888-545-5972.  
+ 
+Injecting MOUNJARO KwikPen  
+ 
+ Step 10:  
+ Choose an injection site.  
+a. You or another person can inject the medicine in your 
+thigh  or stomach  (abdomen) at least 5 centimeters from 
+the belly button (see the image).  
+b. Another person should give you the injection in the back 
+of your upper arm . 
+ Change (rotate)  your injection site each week. You may 
+use the same area of your body but be sure to choose a 
+different injection site in that area.  
+Do not  inject:  
+• where the skin has pits, is thickened or has lumps  
+• where the skin is tender, bruised, scaly or hard  
+• into scars or damaged skin  
+• into the same injection site used for other medicines.  a. Front   b. Back  
+5 sec.  
+HOLD  
+ 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 58 of 61 
+  
+ Step 11:  
+ Turn the dose knob until it stops  and the  icon is shown in 
+the dose window. The  icon is equal to a full dose (0.6 
+mL).  
+ 
+ 
+ Step 12:  
+a. Insert the needle into your skin.  
+ 
+ 
+ 
+ 
+b. Inject the medicine by pushing the dose knob in until it 
+stops. Hold the dose knob in and  slowly count to 5.  The 
+ icon must be shown in the dose window before 
+removing the needle.  
+ Step 13:  
+ Pull the needle out of your skin. A drop of medicine on the 
+needle tip is normal. It will not affect your dose.  
+ Confirm the  icon is in the dose window.  
+If you see the  icon in the dose window, you have 
+received the full dose.  
+If you do not see the  icon in the dose window, insert the 
+needle back into your skin and finish your injection. Do not  
+redial the dose.  
+If you still do not think you received the full dose, do not  
+start over or repeat the injection. See “Storage and 
+handling” or “Troubleshooting” sections for more 
+information.  
+ 
+After your MOUNJARO KwikPen injection  
+ 
+Dial 
+PUSH  
+5 sec.  
+HOLD  
+ 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 59 of 61 
+  
+ Step 14:  
+ If you see blood after you pull the needle out of your skin, 
+lightly press the injection site with gauze or a cotton ball.  
+Do not  rub the injection site.  
+ 
+ Step 15:  
+ Carefully replace the outer needle shield.  
+ 
+ Step 16:  
+ Unscrew the capped needle and put the needle in a sharps 
+container (see "Disposing of MOUNJARO KwikPen and 
+needles" section).  
+Do not  store the KwikPen with the needle attached to 
+prevent leaking, blocking the needle, and air from entering 
+the KwikPen.  
+ Step 17:  
+ Replace the KwikPen cap.  
+Do not  store the KwikPen without the pen cap attached.  
+ 
+Storage and handling  
+ 
+Unused KwikPens:  
+ Store unused KwikPens  in the refrigerator  between 2°C to 8°C.  
+ KwikPens may be used until the expiration date printed on the label if the unused KwikPen has been stored 
+in the refrigerator.  
+ Do not  freeze your KwikPen. Throw away the KwikPen in a sharps disposal container if it has been frozen.  
+Used KwikPens:  
+ You may store your used KwikPen  at room temperature  up to 30°C for up to 30 days.  
+ Keep away from heat and light.  
+ Throw away the KwikPen 30 days after first use in a sharps disposal container even if the KwikPen has 
+medication left in it.  
+
+ 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 60 of 61 
+  Throw away the KwikPen after receiving the 4 weekly doses contained in the pen in a sharps disposal 
+container. Attempting to inject any leftover medicine could result in an incomplete dose even though the 
+KwikPen still has medication left in it.  
+ 
+Keep your KwikPen, needles, sharps container and all medicines out of the sight and reach of children.  
+ 
+Disposing of MOUNJARO KwikPen and needles  
+ 
+ Put your used pen needles in a sharps disposal container right away after use.  
+ Do not  throw away loose pen needles in your household trash.  
+ MOUNJARO KwikPen contains 4 doses. Discard your KwikPen after using it once per week for 4 weeks (4 
+doses). Put all used KwikPens into a puncture -resistant (sharps) container once all the doses have been 
+used. There may be some medicine still left in the pen after the 4 weekly doses were given.  
+ If you do not have a sharps disposal container, you may use a household container that is:  
+– made of a heavy -duty plastic,  
+– can be closed with a tight -fitting, puncture -resistant lid, without sharps being able to come out,  
+– upright and stable during use,  
+– leak-resistant, and  
+– properly labeled to warn of hazardous waste inside the container.  
+ When your sharps disposal container is almost full, follow your community guidelines for the right way to 
+dispose of it. There may be local laws about how you should throw away used needles and syringes. Talk 
+to your healthcare professional about how to d ispose of your sharps container.  
+ Do not  recycle your used sharps disposal container.  
+ 
+Troubleshooting  
+ 
+ If you cannot remove the KwikPen cap, gently twist the KwikPen cap back and forth, and then pull the 
+KwikPen cap straight off.  
+ If the dose knob is hard to push:  
+– pushing the dose knob more slowly will make it easier to inject.  
+– your needle may be blocked. Put on a new pen needle and prime the KwikPen.  
+– you may have dust, food, or liquid inside the KwikPen. Throw the KwikPen away in a sharps disposal 
+container and get a new KwikPen.  
+ If the KwikPen prevents you from turning the dose knob until the  is in the dose window:  
+– Throw away the KwikPen, including the unused medicine in a sharps disposal container. There may not 
+be enough medicine left in the KwikPen to give a full dose. Do not attempt to inject the leftover 
+medicine.  
+ 
+Additional Information:  
+ 
+ Scan this QR code or visit www.mounjaro.ca  
+for more information on how to use 
+MOUNJARO KwikPen including an 
+instructional video.  
+
+ 
+MOUNJARO  and MOUNJARO KwikPen (tirzepatide injection)   Page 61 of 61 
+ For more information, please contact Eli Lilly Canada Incorporated at 1 -888-545-5972 or visit the website at 
+www.lilly.ca.  
+Eli Lilly Canada Inc.  
+P.O. Box 73  
+Toronto, ON M5X 1B1  
+MOUNJARO® and MOUNJARO KwikPen® are registered trademarks of Eli Lilly and Company, its 
+subsidiaries or affiliates.  
+Copyright © 2024, 2025, Eli Lilly and Company. All rights reserved.  
+Issued : JUL 25, 2025  
+ 
+MOU -CA-KP-IFU-0003 -20250725  
+Medication Calendar  
+ 
+Use MOUNJARO KwikPen 1 time a week.  
+Write the day of the week you choose to inject. 
+Inject on this day each week (Example: Monday).  I inject my weekly 0.6  mL dose on the dates below.  
+(Month/Day)  (Month/Day)  (Month/Day)  (Month/Day)
