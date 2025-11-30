@@ -2,12 +2,13 @@ from pydantic import BaseModel, EmailStr
 from datetime import date
 
 class UserCreate(BaseModel):
-    Name: str
-    Phone: str
-    Address: str
-    DOB: date
+    name: str
+    phone: str | None = None
+    address: str | None = None
+    dob: date | None = None
     email: EmailStr
     password: str
+
 
 
 class UserLogin(BaseModel):
@@ -19,7 +20,12 @@ class UserOut(BaseModel):
     id: int
     email: EmailStr
     role: str
+    name: str
+    phone: str | None
+    address: str | None
+    dob: date | None
 
     model_config = {
-        "from_attributes": True  # replaces orm_mode
+        "from_attributes": True
     }
+

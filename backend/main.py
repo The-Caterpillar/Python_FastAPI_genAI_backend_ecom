@@ -38,10 +38,16 @@ app = FastAPI(
     description="**Service Description**",
     version="0.0.1",
 )
+
+# -------------------------
+# ROUTERS
+# -------------------------
 app.include_router(auth_router, prefix="/auth", tags=["Auth"])
 app.include_router(users_router, prefix="/users", tags=["Users"])
 
-prefix_api_v1_version = "/api/v1"
+# -------------------------
+# MIDDLEWARE
+# -------------------------
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -49,10 +55,19 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# -------------------------
+# EXCEPTION HANDLERS
+# -------------------------
 app.add_exception_handler(Exception, http_internal_error_handler)
 app.add_exception_handler(HTTPException, http_exception_handler)
 app.add_exception_handler(RequestValidationError, request_validation_exception_handler)
 app.add_exception_handler(ValidationError, request_custom_validation_exception_handler)
+
+# -------------------------
+# V1 API
+# -------------------------
+prefix_api_v1_version = "/api/v1"
 app.include_router(api_router, prefix=prefix_api_v1_version)
 
 if __name__ == "__main__":

@@ -19,7 +19,7 @@ async def register(
     if existing_user:
         raise HTTPException(status_code=400, detail="Email already in use")
 
-    # Create user
+    # Create user (includes Name, Phone, Address, DOB)
     new_user = await create_user(db, data)
 
     return new_user
@@ -32,12 +32,12 @@ async def login(
 ):
     # Fetch user
     user = await get_user_by_email(db, data.email)
-    if not user:
-        raise HTTPException(status_code=400, detail="Invalid credentials(check password/username)")
+    if not user :
+        raise HTTPException(status_code=400, detail="Invalid credentials(username)")
 
     # Verify password
     if not verify_password(data.password, user.password_hash):
-        raise HTTPException(status_code=400, detail="Invalid credentials")
+        raise HTTPException(status_code=400, detail="Invalid password!!")
 
     # Create JWT token (subject *must be a string*)
     token = create_access_token({"sub": str(user.id)})
