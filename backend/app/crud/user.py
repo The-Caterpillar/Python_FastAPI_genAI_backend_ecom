@@ -16,7 +16,11 @@ async def create_user(db: AsyncSession, user):
     """Create a new user asynchronously."""
     new_user = User(
         email=user.email,
-        password_hash=hash_password(user.password)
+        password_hash=hash_password(user.password),
+        name=user.name,
+        phone=user.phone,
+        address=user.address,
+        dob=user.dob
     )
 
     db.add(new_user)

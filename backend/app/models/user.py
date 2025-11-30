@@ -1,14 +1,12 @@
-from sqlalchemy import Column, Integer, String, DateTime
+from sqlalchemy import Column, Integer, String, DateTime, Date
 from sqlalchemy.sql import func
 from sqlalchemy.types import Enum as SqlEnum
 from app.db.base_class import Base
 import enum
 
-
 class UserRole(enum.Enum):
     customer = "customer"
     admin = "admin"
-
 
 class User(Base):
     __tablename__ = "users"
@@ -16,6 +14,12 @@ class User(Base):
     id = Column(Integer, primary_key=True, index=True)
     email = Column(String, unique=True, nullable=False, index=True)
     password_hash = Column(String, nullable=False)
+
+    # NEW FIELDS (safe defaults so old users don't break)
+    name = Column(String, nullable=False, server_default="")
+    phone = Column(String, nullable=True)
+    address = Column(String, nullable=True)
+    dob = Column(Date, nullable=True)
 
     role = Column(
         SqlEnum(UserRole, name="user_role_enum"),
