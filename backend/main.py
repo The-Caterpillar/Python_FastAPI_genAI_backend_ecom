@@ -1,12 +1,15 @@
 from fastapi import FastAPI, HTTPException
 from app.api.auth import router as auth_router
 from app.api.users import router as users_router
+from app.api.product import router as products_router
 
 import logging
 from contextlib import asynccontextmanager
 from os import path
 from typing import AsyncGenerator
 from starlette.middleware.cors import CORSMiddleware
+from app.api.admin import router as admin_router
+
 
 import uvicorn
 from app.api.v1 import api_router
@@ -44,6 +47,9 @@ app = FastAPI(
 # -------------------------
 app.include_router(auth_router, prefix="/auth", tags=["Auth"])
 app.include_router(users_router, prefix="/users", tags=["Users"])
+app.include_router(products_router, prefix="/products", tags=["Products"])
+app.include_router(admin_router, prefix="/admin", tags=["Admin"])
+
 
 # -------------------------
 # MIDDLEWARE

@@ -40,7 +40,10 @@ async def login(
         raise HTTPException(status_code=400, detail="Invalid password!!")
 
     # Create JWT token (subject *must be a string*)
-    token = create_access_token({"sub": str(user.id)})
+    token = create_access_token({
+        "sub": str(user.id),
+        "role": user.role.value
+    })
 
     return {
         "message" : "Welcome Cutie",
