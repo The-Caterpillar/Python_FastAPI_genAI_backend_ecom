@@ -11,6 +11,8 @@ from sqlalchemy import select
 from app.db.session import acquire_db_session
 from app.models.user import User
 
+from app.models.user import UserRole
+
 # ============================================================
 # PASSWORD HASHING
 # ============================================================
@@ -88,8 +90,7 @@ async def get_current_user(
 # ============================================================
 
 async def admin_required(current_user: User = Depends(get_current_user)):
-    print("DEBUG USER ROLE:", current_user.email, current_user.role)
-    if current_user.role != "admin":
+    print("ADMIN CHECK:", current_user.id, current_user.email, current_user.role)
+    if current_user.role != UserRole.admin:
         raise HTTPException(status_code=403, detail="Admin privileges required")
-
     return current_user
