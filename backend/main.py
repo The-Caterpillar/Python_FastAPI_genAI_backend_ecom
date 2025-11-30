@@ -1,5 +1,6 @@
 from fastapi import FastAPI, HTTPException
 from app.api.auth import router as auth_router
+from app.api.users import router as users_router
 
 import logging
 from contextlib import asynccontextmanager
@@ -38,7 +39,7 @@ app = FastAPI(
     version="0.0.1",
 )
 app.include_router(auth_router, prefix="/auth", tags=["Auth"])
-
+app.include_router(users_router, prefix="/users", tags=["Users"])
 
 prefix_api_v1_version = "/api/v1"
 app.add_middleware(
