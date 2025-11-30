@@ -6,7 +6,7 @@ from starlette.requests import Request
 from starlette.responses import JSONResponse
 from starlette.status import HTTP_400_BAD_REQUEST, HTTP_500_INTERNAL_SERVER_ERROR
 
-from backend.app.core.base_response import BaseResponse
+from app.core.base_response import BaseResponse
 
 
 async def http_exception_handler(_: Request, exc: HTTPException) -> JSONResponse:

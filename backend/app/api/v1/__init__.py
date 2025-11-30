@@ -1,5 +1,5 @@
 from fastapi import APIRouter
-from backend.app.api.v1.status.route import StatusRouter
+from app.api.v1.status.route import StatusRouter
 
 api_router = APIRouter()
 

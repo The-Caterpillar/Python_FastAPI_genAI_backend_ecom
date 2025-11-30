@@ -15,7 +15,7 @@ class Config(BaseSettings):
 
     @property
     def RDS_URI(self) -> str:
-        return f"postgresql+asyncpg://{self.PG_USER}:{self.PG_PASSWORD}@{self.PG_HOST}:{self.PG_PORT}/postgres"
+        return f"postgresql+asyncpg://{self.PG_USER}:{self.PG_PASSWORD}@{self.PG_HOST}:{self.PG_PORT}/python_fastapi_ecom"
 
     model_config = {"case_sensitive": False}
 

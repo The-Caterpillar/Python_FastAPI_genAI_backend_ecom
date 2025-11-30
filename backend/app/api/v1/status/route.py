@@ -3,7 +3,7 @@ from typing import Dict
 
 from fastapi import APIRouter
 
-from backend.app.schemas.status import ServiceStatusSchema
+from app.schemas.status import ServiceStatusSchema
 
 logger = logging.getLogger(__name__)
 

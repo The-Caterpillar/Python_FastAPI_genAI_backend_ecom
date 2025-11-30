@@ -2,9 +2,9 @@ import re
 from typing import Any
  
 from sqlalchemy.ext.declarative import declared_attr
-from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
+from sqlalchemy.orm import declarative_base, DeclarativeBase, Mapped, mapped_column
  
- 
+Base = declarative_base # check check
 class Base(DeclarativeBase):
     @declared_attr.directive
     def __tablename__(cls: Any) -> str:

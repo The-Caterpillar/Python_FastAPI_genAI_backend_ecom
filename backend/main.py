@@ -1,3 +1,6 @@
+from fastapi import FastAPI, HTTPException
+from app.api.auth import router as auth_router
+
 import logging
 from contextlib import asynccontextmanager
 from os import path
@@ -5,9 +8,8 @@ from typing import AsyncGenerator
 from starlette.middleware.cors import CORSMiddleware
 
 import uvicorn
-from fastapi import FastAPI, HTTPException
-from backend.app.api.v1 import api_router
-from backend.app.core.exceptions_handlers import (
+from app.api.v1 import api_router
+from app.core.exceptions_handlers import (
     http_exception_handler,
     http_internal_error_handler,
     request_custom_validation_exception_handler,
@@ -35,6 +37,8 @@ app = FastAPI(
     description="**Service Description**",
     version="0.0.1",
 )
+app.include_router(auth_router, prefix="/auth", tags=["Auth"])
+
 
 prefix_api_v1_version = "/api/v1"
 app.add_middleware(

@@ -1,13 +1,13 @@
 from typing import AsyncGenerator
- 
+
 from sqlalchemy.ext.asyncio import AsyncSession, create_async_engine, async_sessionmaker
- 
-from backend.config.config import config
+
+from app.config.config import config
 
 db_engine = create_async_engine(config.RDS_URI, pool_pre_ping=True, echo=False)
 async_session_maker = async_sessionmaker(
-    bind=db_engine, 
-    class_=AsyncSession, 
+    bind=db_engine,
+    class_=AsyncSession,
     expire_on_commit=False
 )
 
