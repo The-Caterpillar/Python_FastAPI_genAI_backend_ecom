@@ -1,7 +1,10 @@
+from fastapi.openapi.docs import get_swagger_ui_html
 from fastapi import FastAPI, HTTPException
 from app.api.auth import router as auth_router
 from app.api.users import router as users_router
 from app.api.product import router as products_router
+
+from fastapi.responses import HTMLResponse
 
 import logging
 from contextlib import asynccontextmanager
@@ -9,7 +12,6 @@ from os import path
 from typing import AsyncGenerator
 from starlette.middleware.cors import CORSMiddleware
 from app.api.admin import router as admin_router
-
 
 import uvicorn
 from app.api.v1 import api_router
@@ -22,25 +24,37 @@ from app.core.exceptions_handlers import (
 from fastapi.exceptions import RequestValidationError
 from pydantic_core import ValidationError
 
-
 log_file_path = path.join(
     path.dirname(path.abspath(__file__)), "app/core/logging.conf"
 )
 logging.config.fileConfig(log_file_path, disable_existing_loggers=False)
 
-
 @asynccontextmanager
 async def lifespan(_: FastAPI) -> AsyncGenerator:
     yield
 
-
 app = FastAPI(
-    title="Starter Kit Backend",
-    lifespan=lifespan,
-    summary="Starter Kit Backend Service",
-    description="**Service Description**",
-    version="0.0.1",
+    title="Python Backend",
+    summary="",
+    description="*",
+    version="1.0.0",
+    docs_url=None,   # Disable default Swagger
+    redoc_url=None   # Disable ReDoc
 )
+
+# ------------------------------------------------
+# Mount Static Files  << *** THIS WAS MISSING ***
+# ------------------------------------------------
+from fastapi.staticfiles import StaticFiles
+app.mount("/static", StaticFiles(directory="static"), name="static")
+
+# Custom Swagger UI
+from pathlib import Path
+@app.get("/docs", include_in_schema=False)
+async def custom_swagger_ui():
+    file_path = Path(__file__).parent / "static" / "swagger.html"
+    html = file_path.read_text()
+    return HTMLResponse(html)
 
 # -------------------------
 # ROUTERS
@@ -49,7 +63,6 @@ app.include_router(auth_router, prefix="/auth", tags=["Auth"])
 app.include_router(users_router, prefix="/users", tags=["Users"])
 app.include_router(products_router, prefix="/products", tags=["Products"])
 app.include_router(admin_router, prefix="/admin", tags=["Admin"])
-
 
 # -------------------------
 # MIDDLEWARE
