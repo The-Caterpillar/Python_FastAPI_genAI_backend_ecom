@@ -46,7 +46,7 @@ async def login(
     })
 
     return {
-        "message" : "Welcome Cutie",
+        "message" : "Hey, Welcome!!",
         "access_token": token,
         "token_type": "bearer"
     }

@@ -3,7 +3,10 @@ from fastapi import FastAPI, HTTPException
 from app.api.auth import router as auth_router
 from app.api.users import router as users_router
 from app.api.product import router as products_router
-
+from app.api.questionnaire import router as questionnaire_router
+from app.api.persona import router as persona_router
+from dotenv import load_dotenv
+load_dotenv()
 from fastapi.responses import HTMLResponse
 
 import logging
@@ -14,7 +17,7 @@ from starlette.middleware.cors import CORSMiddleware
 from app.api.admin import router as admin_router
 
 import uvicorn
-from app.api.v1 import api_router
+# from app.api.v1 import api_router
 from app.core.exceptions_handlers import (
     http_exception_handler,
     http_internal_error_handler,
@@ -38,12 +41,12 @@ app = FastAPI(
     summary="",
     description="*",
     version="1.0.0",
-    docs_url=None,   # Disable default Swagger
-    redoc_url=None   # Disable ReDoc
+    docs_url=None,   # to disable default Swagger
+    redoc_url=None   # to disable ReDoc
 )
 
 # ------------------------------------------------
-# Mount Static Files  << *** THIS WAS MISSING ***
+# Mount Static Files - for UI part
 # ------------------------------------------------
 from fastapi.staticfiles import StaticFiles
 app.mount("/static", StaticFiles(directory="static"), name="static")
@@ -56,6 +59,7 @@ async def custom_swagger_ui():
     html = file_path.read_text()
     return HTMLResponse(html)
 
+
 # -------------------------
 # ROUTERS
 # -------------------------
@@ -63,6 +67,8 @@ app.include_router(auth_router, prefix="/auth", tags=["Auth"])
 app.include_router(users_router, prefix="/users", tags=["Users"])
 app.include_router(products_router, prefix="/products", tags=["Products"])
 app.include_router(admin_router, prefix="/admin", tags=["Admin"])
+app.include_router(questionnaire_router, prefix="/questionnaire", tags=["Questionnaire"])
+app.include_router(persona_router, prefix="/persona", tags=["Persona"])
 
 # -------------------------
 # MIDDLEWARE
@@ -86,8 +92,8 @@ app.add_exception_handler(ValidationError, request_custom_validation_exception_h
 # -------------------------
 # V1 API
 # -------------------------
-prefix_api_v1_version = "/api/v1"
-app.include_router(api_router, prefix=prefix_api_v1_version)
+# prefix_api_v1_version = "/api/v1"
+# app.include_router(api_router, prefix=prefix_api_v1_version)
 
 if __name__ == "__main__":
     uvicorn.run("main:app", host="0.0.0.0", reload=True, port=5051)

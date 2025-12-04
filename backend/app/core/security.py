@@ -16,7 +16,6 @@ from app.models.user import UserRole
 # ============================================================
 # PASSWORD HASHING
 # ============================================================
-
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
 
 SECRET_KEY = "CHANGE_THIS_SECRET_KEY"
@@ -35,7 +34,6 @@ def verify_password(plain_password: str, hashed_password: str) -> bool:
 # ============================================================
 # JWT TOKEN CREATION
 # ============================================================
-
 def create_access_token(data: dict, expires_minutes: int = ACCESS_TOKEN_EXPIRE_MINUTES):
     to_encode = data.copy()
 
@@ -48,14 +46,12 @@ def create_access_token(data: dict, expires_minutes: int = ACCESS_TOKEN_EXPIRE_M
 # ============================================================
 # HTTP BEARER AUTH (Fixes Swagger Authorization)
 # ============================================================
-
 bearer_scheme = HTTPBearer(auto_error=True)
 
 
 # ============================================================
 # CURRENT USER EXTRACTION (ASYNC)
 # ============================================================
-
 async def get_current_user(
     credentials: HTTPAuthorizationCredentials = Depends(bearer_scheme),
     db: AsyncSession = Depends(acquire_db_session)
@@ -88,7 +84,6 @@ async def get_current_user(
 # ============================================================
 # ADMIN ROLE CHECK
 # ============================================================
-
 async def admin_required(current_user: User = Depends(get_current_user)):
     print("ADMIN CHECK:", current_user.id, current_user.email, current_user.role)
     if current_user.role != UserRole.admin:
