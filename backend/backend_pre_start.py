@@ -4,7 +4,7 @@ import asyncio
 from sqlalchemy import text
 from tenacity import after_log, before_log, retry, stop_after_attempt, wait_fixed
 
-from backend.db.session import db_engine
+from app.db.session import db_engine
 
 logger = logging.getLogger(__name__)
 

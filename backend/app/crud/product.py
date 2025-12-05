@@ -14,26 +14,6 @@ async def create_product(db: AsyncSession, product_in: ProductCreate) -> Product
     return product
 
 
-async def get_product(db: AsyncSession, product_id: int):
-    result = await db.execute(select(Product).where(Product.id == product_id))
-    product = result.scalar_one_or_none()
-    if product and hasattr(product.currency, "value"):
-        product.currency = product.currency.value
-    return product
-
-
-
-async def get_all_products(db: AsyncSession, skip: int = 0, limit: int = 100):
-    result = await db.execute(
-        select(Product).offset(skip).limit(limit)
-    )
-    products = result.scalars().all()
-    for p in products:
-        if hasattr(p.currency, "value"):
-            p.currency = p.currency.value
-    return products
-
-
 async def update_product(db: AsyncSession, product_id: int, product_in: ProductUpdate):
     result = await db.execute(select(Product).where(Product.id == product_id))
     product = result.scalar_one_or_none()
@@ -59,3 +39,25 @@ async def delete_product(db: AsyncSession, product_id: int):
     await db.delete(product)
     await db.commit()
     return True
+
+
+async def get_all_products(db: AsyncSession, skip: int = 0, limit: int = 100):
+    result = await db.execute(
+        select(Product).offset(skip).limit(limit)
+    )
+    products = result.scalars().all()
+    for p in products:
+        if hasattr(p.currency, "value"):
+            p.currency = p.currency.value
+    return products
+
+
+
+async def search_products(db:AsyncSession, name:str):
+    stmt = select(Product).where(Product.name.like(f"%{name}%"))
+    result = await db.execute(stmt)
+    products = result.scalars().all()
+    for p in products:
+        if hasattr(p.currency,"value"):
+            p.currency = p.currency.value
+    return products
