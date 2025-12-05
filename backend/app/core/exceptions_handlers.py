@@ -28,7 +28,6 @@ async def request_validation_exception_handler(
     _: Request, exc: RequestValidationError
 ) -> JSONResponse:
     errors: list = []
-
     for item in exc.errors():
         errors.append(
             {
