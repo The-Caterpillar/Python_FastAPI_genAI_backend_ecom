@@ -1,4 +1,4 @@
-from sqlalchemy import select
+from sqlalchemy import select, func
 from sqlalchemy.ext.asyncio import AsyncSession
 
 from app.models.product import Product
@@ -54,7 +54,7 @@ async def get_all_products(db: AsyncSession, skip: int = 0, limit: int = 100):
 
 
 async def search_products(db:AsyncSession, name:str):
-    stmt = select(Product).where(Product.name.like(f"%{name}%"))
+    stmt = select(Product).where(func.lower(Product.name).like(f"%{name.lower()}%"))
     result = await db.execute(stmt)
     products = result.scalars().all()
     for p in products:

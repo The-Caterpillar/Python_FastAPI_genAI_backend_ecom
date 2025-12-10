@@ -13,7 +13,7 @@ def ask_gemini(prompt: str):
     """
     Sends prompt to Gemini 2.0 Flash and returns text output.
     """
-    model = genai.GenerativeModel("gemini-2.0-flash")
+    model = genai.GenerativeModel("gemini-flash-latest")
 
     response = model.generate_content(prompt)
 

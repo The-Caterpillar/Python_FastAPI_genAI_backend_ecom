@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Environment variables
+backend/.env
+backend/env_file
+
+# Alembic cache files (but keep migration scripts)
+backend/alembic/__pycache__/
+backend/alembic/versions/__pycache__/
+
+# Logs
+logs/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
