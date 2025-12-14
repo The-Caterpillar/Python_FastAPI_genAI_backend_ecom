@@ -26,6 +26,8 @@ from app.core.exceptions_handlers import (
 )
 from fastapi.exceptions import RequestValidationError
 from pydantic_core import ValidationError
+from app.services.vector_index import build_faiss_index
+from app.db.session import acquire_db_session
 
 log_file_path = path.join(
     path.dirname(path.abspath(__file__)), "app/core/logging.conf"
@@ -56,6 +58,11 @@ async def custom_swagger_ui():
     file_path = Path(__file__).parent / "static" / "swagger.html"
     html = file_path.read_text()
     return HTMLResponse(html)
+
+@app.on_event("startup")
+async def startup_event():
+    async for db in acquire_db_session():
+        await build_faiss_index(db)
 
 
 # Each line registers an API module (router) with my FastAPI app.
