@@ -1,6 +1,8 @@
 from sqlalchemy import Column, Integer, String, DateTime, ForeignKey, JSON
 from sqlalchemy.sql import func
 from app.db.base_class import Base
+from sqlalchemy.dialects.postgresql import ARRAY
+from sqlalchemy import Float
 
 class Persona(Base):
     __tablename__ = "personas"
@@ -31,5 +33,5 @@ class Persona(Base):
     #   }
     # }
     persona_json = Column(JSON, nullable=True)
-
+    embedding = Column(ARRAY(Float), nullable=True)
     created_at = Column(DateTime(timezone=True), server_default=func.now())

@@ -3,13 +3,20 @@ from sqlalchemy.ext.asyncio import AsyncSession
 
 from app.models.product import Product
 from app.schemas.product import ProductCreate, ProductUpdate
-
+from app.services.embedding import get_embedding
 
 async def create_product(db: AsyncSession, product_in: ProductCreate) -> Product:
     product = Product(**product_in.dict())
+
+    # Build text for embedding
+    text = f"{product_in.name or ''} {product_in.short_description or ''} {product_in.long_description or ''}"
+    # Generate embedding
+    product.embedding = get_embedding(text)
+
     db.add(product)
     await db.commit()
     await db.refresh(product)
+
     product.currency = product.currency.value
     return product
 
@@ -19,16 +26,17 @@ async def update_product(db: AsyncSession, product_id: int, product_in: ProductU
     product = result.scalar_one_or_none()
     if not product:
         return None
-
+    # Update fields
     for field, value in product_in.dict(exclude_unset=True).items():
         setattr(product, field, value)
-
+    # Build updated text for embedding
+    text = f"{product.name or ''} {product.short_description or ''} {product.long_description or ''}"
+    product.embedding = get_embedding(text)
     db.add(product)
     await db.commit()
     await db.refresh(product)
     product.currency = product.currency.value
     return product
-
 
 async def delete_product(db: AsyncSession, product_id: int):
     result = await db.execute(select(Product).where(Product.id == product_id))

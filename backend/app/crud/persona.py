@@ -10,8 +10,12 @@ from app.utils.gemini_client import ask_gemini
 from dotenv import load_dotenv
 load_dotenv()
 
+# NEW IMPORT
+from app.services.embedding import get_embedding
+
+
 # create persona :
-async def create_persona(db:AsyncSession, user):
+async def create_persona(db: AsyncSession, user):
     # 1. Fetch questionnaire answers
     stmt = select(UserQuestionnaire).where(UserQuestionnaire.user_id == user.id)
     result = await db.execute(stmt)
@@ -57,15 +61,30 @@ async def create_persona(db:AsyncSession, user):
 
     # 3. Query Gemini
     raw = ask_gemini(prompt).strip()
+
     # Clean ```json fences if present
     if raw.startswith("```"):
         raw = raw.strip("`")
         raw = raw.replace("json", "", 1).strip()
+
     # 4. Parse JSON safely
     try:
         persona_data = json.loads(raw)
     except:
         raise HTTPException(500, f"Gemini returned invalid JSON: {raw}")
+
+    # --- NEW PART: Build embedding text ---
+    details = persona_data.get("details", {})
+    embedding_text = (
+        f"{persona_data.get('persona_type', '')} "
+        f"{details.get('overview', '')} "
+        f"{details.get('purchase_drivers', '')} "
+        f"{details.get('shopping_style', '')}"
+    )
+
+    embedding_vector = get_embedding(embedding_text)
+    # --------------------------------------
+
     # 5. Save or update Persona entry
     stmt2 = select(Persona).where(Persona.user_id == user.id)
     res2 = await db.execute(stmt2)
@@ -74,11 +93,16 @@ async def create_persona(db:AsyncSession, user):
     if existing:
         existing.persona_type = persona_data["persona_type"]
         existing.persona_json = persona_data["details"]
+
+        # NEW: store updated embedding
+        existing.embedding = embedding_vector
+
     else:
         new_persona = Persona(
             user_id=user.id,
             persona_type=persona_data["persona_type"],
-            persona_json=persona_data["details"]
+            persona_json=persona_data["details"],
+            embedding = embedding_vector   # NEW
         )
         db.add(new_persona)
 
@@ -89,6 +113,7 @@ async def create_persona(db:AsyncSession, user):
         "persona_type": persona_data["persona_type"],
         "details": persona_data["details"]
     }
+
 
 # get persona :
 async def receive_persona(db:AsyncSession, user):

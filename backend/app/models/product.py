@@ -1,12 +1,13 @@
 from sqlalchemy import (
     Column, Integer, String, Text, Boolean, JSON,
-    Numeric, DateTime
+    Numeric, DateTime, Float
 )
 from sqlalchemy.sql import func
 from app.db.base_class import Base
 import enum
 from sqlalchemy.types import Enum as SqlEnum
 from sqlalchemy.orm import relationship
+from sqlalchemy.dialects.postgresql import ARRAY
 
 
 class CurrencyEnum(enum.Enum):
@@ -35,6 +36,7 @@ class Product(Base):
 
     in_stock = Column(Boolean, nullable=True)
 
+    # NEW FIELD
+    embedding = Column(ARRAY(Float), nullable=True)
+
     created_at = Column(DateTime(timezone=True), server_default=func.now(), nullable=False)
-    # updated_at = Column(DateTime(timezone=True), onupdate=func.now())
-    # reviews = relationship("ProductReview", back_populates="product", cascade="all, delete-orphan")
