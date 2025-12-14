@@ -27,13 +27,13 @@ async def create_persona(db:AsyncSession, user):
 
         Strict requirements:
         1. ONLY return VALID JSON. No commentary, no markdown.
-        2. Every field must contain short phrases (maximum 4–5 words).
+        2. Every field must contain short phrases (maximum 4-5 words).
         3. Persona must feel unique, intuitive, and insight-driven.
         4. Avoid generic descriptions.
 
         JSON FORMAT:
         {{
-        "persona_type": "short catchy archetype (1–3 words)",
+        "persona_type": "short catchy archetype (1-3 words)",
         "details": {{
             "overview": "summary of personality",
             "shopping_style": "how they like to shop",

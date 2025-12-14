@@ -5,6 +5,9 @@ from app.api.users import router as users_router
 from app.api.product import router as products_router
 from app.api.questionnaire import router as questionnaire_router
 from app.api.persona import router as persona_router
+from app.api.recommendations import router as recommendations_router
+from app.api.cart import router as cart_router
+from app.api.reviews import router as review_router
 from dotenv import load_dotenv
 load_dotenv()
 from fastapi.responses import HTMLResponse
@@ -63,7 +66,9 @@ app.include_router(products_router, prefix="/products", tags=["Products"])
 app.include_router(admin_router, prefix="/admin", tags=["Admin"])
 app.include_router(questionnaire_router, prefix="/questionnaire", tags=["Questionnaire"])
 app.include_router(persona_router, prefix="/persona", tags=["Persona"])
-
+app.include_router(recommendations_router, prefix="/recommendations", tags=["Recommendations"])
+app.include_router(cart_router,prefix="/cart", tags=["cart"])
+app.include_router(review_router, prefix="/reviews", tags=["Reviews"])
 
 
 # It enables CORS (Cross-Origin Resource Sharing).

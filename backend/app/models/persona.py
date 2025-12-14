@@ -8,7 +8,7 @@ class Persona(Base):
     id = Column(Integer, primary_key=True, index=True)
     user_id = Column(Integer, ForeignKey("users.id"), unique=True, nullable=False)
 
-    # Short archetype (1–3 words)
+    # Short archetype (1-3 words)
     persona_type = Column(String, nullable=True)
 
     # Persona structure JSON:
