@@ -1,47 +1,25 @@
-FROM python:3.12
-RUN apt-get update && apt-get install -y pandoc
-RUN apt-get update && apt-get upgrade -y
-RUN apt-get install python3 -y \
-    curl \
-    git \
+# Use lightweight Python base image
+FROM python:3.12-slim
+
+# Install OS dependencies only if absolutely needed
+RUN apt-get update && apt-get install -y \
     libzbar0 \
-    mupdf \
-    libzbar-dev \
-    python3-pip \
-    python3-venv -y \
-    && apt-get clean
+    && apt-get clean && rm -rf /var/lib/apt/lists/*
+
+# Set working directory
 WORKDIR /app
-COPY . ./
 
-ENV VIRTUAL_ENV=/opt/venv
-RUN python3 -m venv $VIRTUAL_ENV
-ENV PATH="$VIRTUAL_ENV/bin:$PATH"
-ENV PATH="/venv/bin:$PATH"
-
-ARG AZURE_CLIENT_ID
-ARG AZURE_CLIENT_SECRET
-ARG AZURE_AI_ENDPOINT
-ARG AZURE_TENANT_ID
-ARG AZURE_DEPLOYMENT_MODEL
-ARG AZURE_API_VERSION
-ARG RDS_URI
-
-
-ENV AZURE_CLIENT_ID=$AZURE_CLIENT_ID
-ENV AZURE_CLIENT_SECRET=$AZURE_CLIENT_SECRET
-ENV AZURE_AI_ENDPOINT=$AZURE_AI_ENDPOINT
-ENV AZURE_TENANT_ID=$AZURE_TENANT_ID
-ENV AZURE_DEPLOYMENT_MODEL=$AZURE_DEPLOYMENT_MODEL
-ENV AZURE_API_VERSION=$AZURE_API_VERSION
-ENV RDS_URI=$RDS_URI
-
+# Copy requirement list and install
 COPY requirements.txt .
-RUN pip install -r requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
-# Load environment variables from env_var file
-COPY env_var .env
-RUN cat .env >> /etc/environment
+# Copy all backend code
+COPY . .
 
+# Expose the app port
 EXPOSE 5051
-ENTRYPOINT [ "/bin/bash" ]
-CMD ["run.sh"]
+
+# Render injects env vars automatically — no .env needed
+
+# Start the FastAPI server
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "5051"]
