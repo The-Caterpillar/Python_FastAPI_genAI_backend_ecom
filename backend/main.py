@@ -59,10 +59,19 @@ async def custom_swagger_ui():
     html = file_path.read_text()
     return HTMLResponse(html)
 
+# here:
+# @app.on_event("startup")
+# async def startup_event():
+#     async for db in acquire_db_session():
+#         await build_faiss_index(db)
 @app.on_event("startup")
 async def startup_event():
-    async for db in acquire_db_session():
-        await build_faiss_index(db)
+    try:
+        async for db in acquire_db_session():
+            await build_faiss_index(db)
+    except Exception as e:
+        # DO NOT crash the app on Render
+        print("FAISS index build skipped on startup:", str(e))
 
 
 # Each line registers an API module (router) with my FastAPI app.
