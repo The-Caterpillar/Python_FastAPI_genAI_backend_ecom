@@ -17,7 +17,7 @@ from app.db.base import Base
 # access to the values within the .ini file in use.
 config = context.config
 
-# uncomment below 4 lines for local: 
+# here: uncomment below 4 lines for local: 
 import os
 database_url = os.getenv("RDS_URI")
 if database_url:
