@@ -17,6 +17,13 @@ from app.db.base import Base
 # access to the values within the .ini file in use.
 config = context.config
 
+# uncomment below 4 lines for local: 
+import os
+database_url = os.getenv("RDS_URI")
+if database_url:
+    config.set_main_option("sqlalchemy.url", database_url)
+
+
 # Interpret the config file for Python logging.
 # This line sets up loggers basically.
 if config.config_file_name is not None:
