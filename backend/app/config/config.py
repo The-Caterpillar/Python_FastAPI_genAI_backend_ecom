@@ -6,17 +6,21 @@ from pydantic import Field
 
 load_dotenv()
 
+# here:
+# class Config(BaseSettings):
+#     PG_USER: str
+#     PG_PASSWORD: str
+#     PG_HOST: str
+#     PG_PORT: str
+
+#     @property
+#     def RDS_URI(self) -> str:
+#         return f"postgresql+asyncpg://{self.PG_USER}:{self.PG_PASSWORD}@{self.PG_HOST}:{self.PG_PORT}/python_fastapi_ecom"
+
+#     model_config = {"case_sensitive": False}
 
 class Config(BaseSettings):
-    PG_USER: str
-    PG_PASSWORD: str
-    PG_HOST: str
-    PG_PORT: str
-
-    @property
-    def RDS_URI(self) -> str:
-        return f"postgresql+asyncpg://{self.PG_USER}:{self.PG_PASSWORD}@{self.PG_HOST}:{self.PG_PORT}/python_fastapi_ecom"
-
+    RDS_URI: str
     model_config = {"case_sensitive": False}
 
 
