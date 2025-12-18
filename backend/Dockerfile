@@ -13,13 +13,14 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
+# Install alembic (if not already in requirements.txt)
+RUN pip install alembic
+
 # Copy all backend code
 COPY . .
 
 # Expose the app port
 EXPOSE 5051
 
-# Render injects env vars automatically — no .env needed
-
-# Start the FastAPI server
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "5051"]
+# Run alembic migrations before starting server
+CMD alembic upgrade head && uvicorn main:app --host 0.0.0.0 --port 5051
