@@ -21,6 +21,8 @@ config = context.config
 import os
 database_url = os.getenv("RDS_URI")
 if database_url:
+    if database_url.startswith("postgresql+asyncpg"):
+        database_url = database_url.replace("+asyncpg", "+psycopg")
     config.set_main_option("sqlalchemy.url", database_url)
 
 
