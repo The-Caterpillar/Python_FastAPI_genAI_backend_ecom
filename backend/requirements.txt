@@ -19,7 +19,7 @@ pytz
 python-multipart
 python-jose
 tenacity
-bcrypt
+bcrypt==4.1.2
 PyJWT
 pgvector
 PyPDF2==3.0.1
