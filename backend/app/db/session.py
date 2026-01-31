@@ -7,6 +7,7 @@ from app.config.config import config
 
 db_engine = create_async_engine(
     config.RDS_URI,
+    print("USING DATABASE:", config.RDS_URI),
     pool_size=1,
     max_overflow=0,
     pool_timeout=60,
@@ -18,6 +19,7 @@ db_engine = create_async_engine(
         "ssl": "require",
     },
 )
+
 async_session_maker = async_sessionmaker(
     bind=db_engine,
     class_=AsyncSession,
@@ -33,5 +35,3 @@ async def acquire_db_session() -> AsyncGenerator[AsyncSession, None]:
         raise ex
     finally:
         await session.close()
- 
- 
