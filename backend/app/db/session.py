@@ -7,9 +7,16 @@ from app.config.config import config
 
 db_engine = create_async_engine(
     config.RDS_URI,
-    poolclass=NullPool,   # ← this disables SQLAlchemy pooling
+    pool_size=1,
+    max_overflow=0,
+    pool_timeout=60,
     pool_pre_ping=True,
-    echo=False
+    echo=False,
+    connect_args={
+        "timeout": 60,
+        "command_timeout": 60,
+        "ssl": "require",
+    },
 )
 async_session_maker = async_sessionmaker(
     bind=db_engine,
