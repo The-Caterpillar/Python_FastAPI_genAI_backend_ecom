@@ -28,5 +28,5 @@ COPY . .
 # Expose the app port
 EXPOSE 5051
 
-# Run alembic migrations before starting server
-CMD alembic upgrade head && uvicorn main:app --host 0.0.0.0 --port 5051
+# ✅ DO NOT run alembic on startup
+CMD uvicorn main:app --host 0.0.0.0 --port 5051
