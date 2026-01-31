@@ -5,7 +5,6 @@ from sqlalchemy.pool import NullPool
 
 from app.config.config import config
 
-# db_engine = create_async_engine(config.RDS_URI, pool_pre_ping=True, echo=False)
 db_engine = create_async_engine(
     config.RDS_URI,
     poolclass=NullPool,   # ← this disables SQLAlchemy pooling
@@ -22,7 +21,6 @@ async def acquire_db_session() -> AsyncGenerator[AsyncSession, None]:
     session = async_session_maker()
     try:
         yield session
-        await session.commit()
     except Exception as ex:
         await session.rollback()
         raise ex

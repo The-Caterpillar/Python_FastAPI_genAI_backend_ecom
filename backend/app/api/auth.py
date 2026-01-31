@@ -19,7 +19,7 @@ async def register(
     if existing_user:
         raise HTTPException(status_code=400, detail="Email already in use")
 
-    # Create user (includes Name, Phone, Address, DOB)
+    # Create user (commit happens inside CRUD)
     new_user = await create_user(db, data)
 
     return new_user
